@@ -1,3 +1,9 @@
+
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 ############### string simple stuff #########  
 # http://ruby-doc.org/core-2.2.0/String.html
 def str(mystr = "")

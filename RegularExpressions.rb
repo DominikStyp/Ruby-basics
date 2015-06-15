@@ -1,4 +1,9 @@
 
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 ######### REGULAR EXPRESSIONS ################
 def regularExpressions
     # Tricky checking substring presence (may not work before Ruby 1.9.3)

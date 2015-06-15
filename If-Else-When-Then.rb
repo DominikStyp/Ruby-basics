@@ -1,5 +1,9 @@
 #!/usr/bin/env ruby
 
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
 
 ############### if / else ##################
 def ifElse(str = "") # default argument values can be defined like in PHP

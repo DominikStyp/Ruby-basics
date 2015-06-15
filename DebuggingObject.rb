@@ -1,3 +1,8 @@
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 ### Debugging object
 def d(obj)
     return obj.nil? ? "There is no object!" : obj.display_info()

@@ -1,5 +1,10 @@
 #!/usr/bin/ruby
 
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 # http://www.tutorialspoint.com/ruby/ruby_input_output.htm
 
 class MyFiles

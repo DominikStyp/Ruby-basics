@@ -1,5 +1,10 @@
 
-# http://ruby-doc.org/core-2.2.0/Array.html
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
+# @see: http://ruby-doc.org/core-2.2.0/Array.html
 def arrays
     arr = ["one", "two", "three", "four", "five"]
     arrFilled = Array.new(30, 0) # automatic fill

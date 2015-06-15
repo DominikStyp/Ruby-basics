@@ -1,5 +1,10 @@
 #!/usr/bin/env ruby
 
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 def doSomething(str)
    puts "do Something " + str
    return "I'm returning: " + str

@@ -1,3 +1,8 @@
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 
 def directoriesActions
   # change directory

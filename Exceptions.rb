@@ -1,5 +1,10 @@
 #!/usr/bin/ruby
 
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 begin
    file = open("/unexistant_file")
    if file

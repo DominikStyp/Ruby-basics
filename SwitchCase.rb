@@ -1,3 +1,9 @@
+
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 ###############  SWITCH / CASE constructs ###############
 def switchCaseConstruct
     x = 10

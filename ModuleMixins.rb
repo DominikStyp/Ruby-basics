@@ -1,4 +1,9 @@
 
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 module A
    def a1
    end

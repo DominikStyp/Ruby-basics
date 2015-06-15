@@ -1,5 +1,10 @@
 #!/usr/bin/env ruby
 
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 ############### concatenetion operators #########
 def concatenationOperators
     ff = ["Jay", "Silent Bob"]

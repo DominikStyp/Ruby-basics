@@ -1,3 +1,8 @@
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 ############# METAPROGRAMMING - YOUR OWN ACCESSORS #################
 ############# METAPROGRAMMING - YOUR OWN ACCESSORS #################
 ############# METAPROGRAMMING - YOUR OWN ACCESSORS #################

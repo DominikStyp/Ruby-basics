@@ -1,3 +1,8 @@
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 ############### LOOPS #########
 def loops
     # Perl like quote words: qw(aa bb cc dd)

@@ -1,3 +1,9 @@
+
+=begin
+  @author: DominikStyp
+  @url: https://github.com/DominikStyp
+=end
+
 ############ USING YIELD KEYWORD #############
 ############ USING YIELD KEYWORD #############
 ############ USING YIELD KEYWORD #############
