@@ -5,30 +5,13 @@
   @url: https://github.com/DominikStyp
 =end
 
-def doSomething(str)
-   puts "do Something " + str
-   return "I'm returning: " + str
+def defaultArguments (x = 22, y = x + 20, z = 50)
+        puts "x = " + x.to_s
+        puts "y = " + y.to_s
+        puts "z = " + z.to_s
 end
 
-def test
-   x = 2
-   y = 5
-      if y > x
-         if (y-1) > x
-            # if we add return it will stop here
-            # but if we leave it as it is, it will go further
-            doSomething "1" 
-         end
-         if (y-2) > x
-            doSomething "2"
-         end
-         if (y-3) > x
-            doSomething "3"
-         end
-      end
-      if y > x
-         doSomething "4"
-      end
-end
+alias da defaultArguments
 
-puts test
+da
+da

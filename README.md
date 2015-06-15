@@ -3,7 +3,7 @@
 This repo contains **practical Ruby examples** of the following topics:
 
 - <a href="./ArraysAndHashes.rb">Arrays (single and multidimensional) and Hashes</a>
-- <a href="./Classes.rb">Classes</a>
+- <a href="./Classes.rb">Classes and methods issues: inheritance, var-args methods, static and instance vars and methods, accessors etc.</a>
 - <a href="./DebuggingObject.rb">Debugging</a>
 - <a href="./Directories.rb">Directories operations</a>
 - <a href="./Exceptions.rb">Using exceptions</a>

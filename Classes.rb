@@ -40,21 +40,39 @@ class Person
         return "Person: #{@name} Age: #{@age} "
     end
     
-    # variable number of parameters
-    def sample (*test)
-        puts "The number of parameters is #{test.length}"
-        for i in 0...test.length
-           puts "The parameters are #{test[i]}"
+    # variable number of arguments
+    def variableNumberOfArguments (*test)
+        puts "Number of parameters #{test.length}"
+        for i in test
+           puts "The parameters are #{i}"
         end
     end
+        
+    # you can even pass expressions as method parameters
+    def defaultArguments (x = 22, y = x + 20, z = 50)
+        puts "x = " + x.to_s
+        puts "y = " + y.to_s
+        puts "z = " + z.to_s
+    end
+    
+
     
     ########### GLOBAL VARIABLE IS STARTED BY $ ###############
     $globalVar = "This is global var"
 end
+
+
+
 # Inheritance
 class Man < Person
+    # this is how we can create alias to a method 'defaultArguments'
+    # so that invoke '_da' will work as invoke 'defaultArguments'
+    # it is very useful when you have long method names,
+    # for example from parent class and you want to shorten them
+    alias _da defaultArguments
 end
 
+############## TEST ########
 if true
     personObj = Man.new("Ann", 22)
     puts "Person name: " + personObj.getName
@@ -66,7 +84,11 @@ if true
     # ERROR - read only
     # personObj.readonlyParam = 10;
     puts $globalVar
+    personObj._da
 end
+############################
+
+
 
 class StaticMethods
     def self.static1(*args)
