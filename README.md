@@ -2,7 +2,7 @@
 
 This repo contains **practical Ruby examples** of the following topics:
 
-- <a href="./ArraysAndHashes.rb">Arrays and Hashes</a>
+- <a href="./ArraysAndHashes.rb">Arrays (single and multidimensional) and Hashes</a>
 - <a href="./Classes.rb">Classes</a>
 - <a href="./DebuggingObject.rb">Debugging</a>
 - <a href="./Directories.rb">Directories operations</a>
@@ -16,5 +16,5 @@ This repo contains **practical Ruby examples** of the following topics:
 - <a href="./RegularExpressions.rb">Regular expressions: .match, .gsub, .scan</a>
 - <a href="./ReturnOrNotReturn.rb">Return or not return from function? (What's the difference)</a>
 - <a href="./RubyBasics.rb">Basics: concatenation operator</a>
-- <a href="./Strings.rb">String issues: concatenation, substring extraction, .capitalize, .split, .delete0</a>
+- <a href="./Strings.rb">String issues: concatenation, substring extraction, .capitalize, .split, .delete</a>
 - <a href="./SwitchCase.rb">Switch-case issues</a>
