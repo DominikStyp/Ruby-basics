@@ -10,6 +10,9 @@ def doSomething(str)
    return "I'm returning: " + str
 end
 
+# difference betwin returning or not returning from the function
+# is simple: if you don't define return statement - last executed line of the function will be returned
+# in this case 'nil' will be returned at the end of the function.
 def test
    x = 2
    y = 5
