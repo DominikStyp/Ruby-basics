@@ -55,7 +55,8 @@ def differentProcSyntax
     # Here we have proc syntax call alternatives, all means the same but looks different
     myProc = Proc.new { |x| x += 10 }
     puts myProc.call(0) # first way
-    puts myProc.(0) # second way
+    # works in Ruby 2.2
+    # puts myProc.(0) # second way
     puts myProc[0] # third way
     puts myProc === 0 # fourth way
 end

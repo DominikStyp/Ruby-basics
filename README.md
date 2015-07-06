@@ -3,7 +3,12 @@
 This repo contains **practical Ruby examples** of the following topics:
 
 - <a href="./ArraysAndHashes.rb">Arrays (single and multidimensional) and Hashes</a>
-- <a href="./Classes.rb">Classes and methods issues: inheritance, var-args methods, static and instance vars and methods, accessors etc.</a>
+- <a href="./classes/">Classes</a>
+  - <a href="./classes/Classes.rb">Inheritance, var-args methods, accessors etc.</a>
+  - <a href="./classes/OperatorsOverloading.rb">Operators overloading</a>
+  - <a href="./classes/StaticMetodsAndConstants.rb">Static methods and constants</a>
+  - <a href="./classes/StaticMetodsAndConstants.rb">Static methods and constants</a>
+  - <a href="./classes/FreezingObjects.rb">Freezing objects (turn off modification possibility)</a>
 - <a href="./DebuggingObject.rb">Debugging</a>
 - <a href="./Directories.rb">Directories operations</a>
 - <a href="./Exceptions.rb">Using exceptions</a>

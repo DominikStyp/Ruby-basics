@@ -7,6 +7,7 @@
 # @see: http://ruby-doc.org/core-2.2.0/Array.html
 def arrays
     arr = ["one", "two", "three", "four", "five"]
+    arr << "six" # works like: arr.push("six")
     arrFilled = Array.new(30, 0) # automatic fill
     puts arr[-2]; # "four"
     puts arr[0]; # "one"
@@ -38,6 +39,7 @@ def arrays
     # you can change array value separator (taken from Perl)
     $, =", "   # Array value separator
     range1 = (1..10).to_a # 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+    
     
 end
 #arrays

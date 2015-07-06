@@ -12,8 +12,8 @@ def ifElse(str = "") # default argument values can be defined like in PHP
   ###### TERNARY OPERATOR:  condition ? if_true : if_false ####
   puts int < 40 ? "#{int} < 40" : "#{int} > 40"
   #### REGULAR IF/ELSE ####
-  if str == "TEST_STR"
-      puts "OK"
+  if ((1..10) === 15)
+        puts "15 lies in (1..10)"
   # if you want to put instruction in the same line as condition type 'then'
   elsif str.nil? then return "ELSEIF-NIL"
   # you don't need parentheses here, but you can add them

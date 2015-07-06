@@ -30,3 +30,10 @@ Sample string inside heredoc test str: "#{mystr[1..4]}"
 END
 end 
 str("My name is Doom123")
+
+def concatenationOperators
+    ff = ["Jay", "Silent Bob"]
+    ff << "Darth Vader" # works like: ff.push("Darth Vader")
+    puts ff.to_s
+    puts "Concat " << "some " + "string " << "for " + "me"
+end

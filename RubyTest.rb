@@ -15,3 +15,16 @@ alias da defaultArguments
 
 da
 da
+
+##############
+
+
+# Help detailed commands (just type one of them and hit SPACE or ENTER key after it):
+# rloophelp - loops
+# rregexhelp - shows regular expressions
+# rstring - shows strings
+
+# Help detailed commands (just type one of them and hit SPACE or ENTER key after it):
+# rloophelp - loops
+# rregexhelp - shows regular expressions
+# rstring - shows strings

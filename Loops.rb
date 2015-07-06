@@ -21,15 +21,17 @@ def loops
         # prints 1,2,3
           for x in 1..3 do print "#{x},"; end
         # each 
-          (0..2).each do |x| print "#{x}-each-do, "; end
-          (3..5).each {|x| print "#{x}-each-do, "; }
+          (0..2).each do |a| print "#{x}-each-do, "; end
+          (3..5).each {|f| print "#{x}-each-do, "; }
+        
+        
+         
 
     # >>> EACH LOOP
     puts "--------- Each loop with keys: -------------"
     words.each { |val| print val + ", " }; puts "" # prints new line
     puts "--------- Each loop with key => value pairs: -----------"
     words.each { |key, val| print key.to_s + " => " + val.to_s }
-
     # >>> FOR LOOP
     puts "--------- For loop: "
     # WARNING: key in this construct doesn't work for arrays (only hashes)
@@ -39,10 +41,11 @@ def loops
 
     # >>> EACH WITH INDEX (like foreach in php)
     puts "--------- Each with index: "
-    ["x","y","z"].each_with_index do |val, key| #WARNING: value is first, key is second
-        puts "Index:" + key.to_s + " value: " + val.to_s
+    ["x","y","z"].each_with_index do |val1, key1| #WARNING: value is first, key is second
+        puts "Index:" + key1.to_s + " value: " + val1.to_s
     end
-
+    
+    
     # >>> WHILE LOOP (UNTIL IS WHILE OPPOSITE)
     puts "--------- While loop shrinking array dynamically"
     arr = ["great","job","Ruby","developers","!!"]

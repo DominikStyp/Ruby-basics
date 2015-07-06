@@ -1,0 +1,28 @@
+<employees>
+    <programmers>
+        <programmer name="Dominik" surname="Styp">
+            <languages>
+                <lang>Java</lang>
+                <lang>Ruby</lang>
+                <lang>Python</lang>
+                <lang>JavaScript</lang>
+                <lang>PHP</lang>
+                <lang>HTML</lang>
+                <lang>CSS</lang>
+            </languages>
+        </programmer>
+        <programmer name="John" surname="Jablonsky">
+            <languages>
+                <lang>Java</lang>
+                <lang>Ruby</lang>
+            </languages>
+        </programmer>
+        <programmer name="Natalia" surname="Lisicky">
+            <languages>
+                <lang>Java</lang>
+                <lang>C#</lang>
+                <lang>Python</lang>
+            </languages>
+        </programmer>
+    </programmers>
+</employees>

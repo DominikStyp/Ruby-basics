@@ -5,27 +5,45 @@
 =end
 
 ######### REGULAR EXPRESSIONS ################
-def regularExpressions
-    # Tricky checking substring presence (may not work before Ruby 1.9.3)
-    puts "some test 222 string"["222"] # returns substring "222"
-    puts "some test 111 string"["222"] # returns NIL
-    
-    # Substitution
-    puts "something new".sub("new", "old") # "something old"    
-    # Global Substitution
-    puts "new something new".gsub("new","old") # "old something old"
-    puts " this is my >password< ".gsub(/>(\w+)</,"__\\1__") #  this is my __password__ 
-    # Wrapping using scan - every word will be wrapped in <<>>
+
+def searchForPatternUsingScan
+      # Wrapping using scan - every word will be wrapped in <<>>
     # <<some>> <<words>> <<wrapped>>
     "some words wrapped".scan(/\w+/) {|w| print "<<#{w}>> " }; print "\n"
     # use scan to find phone numbers
     # Phone: 600-333-222 Phone: 333-222-333
     "my phone 600-333-222 and my is 333-222-333".scan(/[0-9-]+/) { |x| puts "Phone: #{x}" }
+end
+
+def checkingSubstring
+    # Tricky checking substring presence (may not work before Ruby 1.9.3)
+    puts "some test 222 string"["222"] # returns substring "222"
+    puts "some test 111 string"["222"] # returns NIL 
+    
+end
+
+def matchingPatternOrSubstring(mystr)
     # Regex match
     if !mystr.match(/[0-9]{3}/).nil?
       puts "String matched regex /[0-9]{3}/"
     end
-    ### Replace with callback
+end
+
+
+def substitutionUsingGsub 
+    # Substitution
+    puts "something new".sub("new", "old") # "something old"    
+    # Global Substitution
+    puts "new something new".gsub("new","old") # "old something old"
+    puts " this is my >password< ".gsub(/>(\w+)</,"__\\1__") #  this is my __password__ 
+end
+
+ 
+
+ 
+  
+def replaceWithCallbackUsingGsub
+  ### Replace with callback
     # I wanna change all letters in my secret password to *
     # "my secred pass is ********" - changes full expression to *
     "my secred pass is @myPass@".gsub(/@[^@]+@/) { |m| m.gsub(/./,"*") }

@@ -1,0 +1,4096 @@
+<characters>
+	<character>
+		<name>Johnny Cage</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>High Green Orb</name>
+				<note></note>
+				<keys>
+					<all>F,D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Low Green Orb</name>
+				<note></note>
+				<keys>
+					<all>B,D,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Shadow Uppercut</name>
+				<note></note>
+				<keys>
+					<all>B,D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Shadow Kick</name>
+				<note></note>
+				<keys>
+					<all>B,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Red Shadow Kick</name>
+				<note></note>
+				<keys>
+					<pc>B,B,F,HK</pc>
+					<psx>B,B,F,HK</psx>
+					<ss>B,B,F,HK</ss>
+					<n64>B,B,F,LK</n64>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>D,D,F,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<pc>D,D,F,F,LK</pc>
+					<psx>D,D,F,F,LK</psx>
+					<ss>D,D,F,F,LK</ss>
+					<n64></n64>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>D,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note>half screen</note>
+				<keys>
+					<all>D,F,B,B,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>D,D,D,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LK,HK,LP,HP,HK,HK,HP,HP,LP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>D,B,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>27%</note>
+				<keys>
+					<all>HK,LK,HK,LK,LK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>19%, 17% for N64</note>
+				<keys>
+					<all>HP,HP,LP,D+LP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Noob Saibot</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Clone Throw</name>
+				<note></note>
+				<keys>
+					<all>F,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport Slam</name>
+				<note></note>
+				<keys>
+					<all>D,Up</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>No Block Ball</name>
+				<note></note>
+				<keys>
+					<all>D,F,LP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>sweep</note>
+				<keys>
+					<all>B,B,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>sweep</note>
+				<keys>
+					<all>D,D,Up,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>sweep</note>
+				<keys>
+					<all>B,F,B,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,F,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>full screen</note>
+				<keys>
+					<all>F,F,B,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LK,LP,BL,LK,HK,HP,LP,BL,LK,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,D,F,BL</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,LP,HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>23%</note>
+				<keys>
+					<all>LK,LK,LK,LK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Baraka</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Blade Fury</name>
+				<note></note>
+				<keys>
+					<all>B,B,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Head Swipe</name>
+				<note></note>
+				<keys>
+					<all>B+HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Spark Toss</name>
+				<note></note>
+				<keys>
+					<all>D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Blade Spin</name>
+				<note>Keep Tapping BL &amp; Hold B Or F To Move</note>
+				<keys>
+					<all>F,D,F+BL</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close when starting the key combination</note>
+				<keys>
+					<all>B,B,B,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close when starting the key combination</note>
+				<keys>
+					<all>B,F,D,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>sweep</note>
+				<keys>
+					<all>HoldHP,F,B,D,F,releaseHP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>D,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,HP,LP,LP,BL,HK,HK,LK,LK,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>LK,R,R,R,R</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>22%, 21% for N64</note>
+				<keys>
+					<all>HP,HP,B+HP,F+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>23%, 25% for N64</note>
+				<keys>
+					<all>HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,B+HP,F+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>21%</note>
+				<keys>
+					<all>HK,HK,B+HP,B+HP,F+HP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Cyrax</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Far Bomb Toss</name>
+				<note></note>
+				<keys>
+					<all>HoldLK,F,F,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Near Bomb Toss</name>
+				<note></note>
+				<keys>
+					<all>HoldLK,B,B,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport</name>
+				<note>can be done in air too</note>
+				<keys>
+					<all>F,D,BL</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Green Net</name>
+				<note></note>
+				<keys>
+					<all>B,B,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Air Run</name>
+				<note>When you are on ground, and victim is in air</note>
+				<keys>
+					<all>D,F,BL</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>D,D,Up,D,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>D,D,F,Up,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>Up,Up,D,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,F,B,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>R,R,R,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HK,HP,HK,HK,HP,HK,HP,HK,LK,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>R,BL,R</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>30%</note>
+				<keys>
+					<all>HP,HP,HK,HP,HK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Sonya</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Energy Rings</name>
+				<note></note>
+				<keys>
+					<all>D,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Wave Punch</name>
+				<note></note>
+				<keys>
+					<all>F,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Bicycle Kick</name>
+				<note></note>
+				<keys>
+					<all>B,B,D,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Leg Throw</name>
+				<note></note>
+				<keys>
+					<all>D+LP+BL</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>half screen</note>
+				<keys>
+					<all>HoldBL+R,Up,Up,B,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>more than half screen</note>
+				<keys>
+					<all>B,F,D,D,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>HoldLP,B,F,D,F,releaseLP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,F,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>B,F,B,D+R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LK,BL,HP,LK,BL,HP,LP,BL,HK,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,F,D,HP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,LP,B+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>31%</note>
+				<keys>
+					<all>HK,HK,HP,HP,LP,B+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>27%</note>
+				<keys>
+					<all>HK,HP,HP,LP,B+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HP,HP,U+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,U+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 6</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HP,HP,U+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 7</name>
+				<note>27%</note>
+				<keys>
+					<all>HK,HK,HP,HP,U+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 8</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,HK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Rayden</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Lighting Toss</name>
+				<note></note>
+				<keys>
+					<all>D,F+LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Reverse Lighting Toss</name>
+				<note></note>
+				<keys>
+					<all>D,B+LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport</name>
+				<note></note>
+				<keys>
+					<all>D,Up</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Torpedo</name>
+				<note></note>
+				<keys>
+					<all>B,B,F</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Shocker</name>
+				<note></note>
+				<keys>
+					<all>HoldHPfor3seconds,release</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>HoldHPfor8seconds,thenrelease</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>HoldLKfor3seconds,releaseLK,BL+LKrapidly</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>sweep</note>
+				<keys>
+					<all>D,F,D,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,Up,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>half screen</note>
+				<keys>
+					<all>D,B,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,LK,LK,LK,HK,LP,LP,LP,BL,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>D,D,D,HP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>18%</note>
+				<keys>
+					<all>HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>19%, 27% for N64</note>
+				<keys>
+					<all>HP,HP,LP,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>36%, 31% for N64</note>
+				<keys>
+					<all>HP,HP,LP,F+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Klassic Rayden</name>
+		<moves>
+			<note>This character is not available in the Nintendo 64 version of
+				the game.</note>
+			<specialMoves>
+				<name>Torpedo</name>
+				<note>Can do in air</note>
+				<keys>
+					<all>B,B,F</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Lightning</name>
+				<note></note>
+				<keys>
+					<all>D,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport</name>
+				<note></note>
+				<keys>
+					<all>D,Up</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>sweep</note>
+				<keys>
+					<all>F,F,B,B,B,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note>past sweep</note>
+				<keys>
+					<all>Up,Up,D,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,HP,HP,BL,BL,HK,HK,HK,BL,LP,HP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note>close</note>
+				<keys>
+					<all>D,D,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>19%</note>
+				<keys>
+					<all>HP,D+LP,D+LP,D+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,B+HK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Rain</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Mind Control Orb</name>
+				<note></note>
+				<keys>
+					<all>D,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Super Roundhouse Kick</name>
+				<note></note>
+				<keys>
+					<all>B+HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Lighting Grab</name>
+				<note></note>
+				<keys>
+					<all>B,B,HP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,D,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>sweep</note>
+				<keys>
+					<all>D,D,B,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>BL,BL,R,R,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,B,B,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>F,F,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,BL,LK,HK,BL,LK,HK,BL,HP,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,D,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,LP,HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>24%</note>
+				<keys>
+					<all>HK,HK,LK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,LP,HP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Shang Tsung</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Single Fireball</name>
+				<note></note>
+				<keys>
+					<all>B,B+HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Double Fireballs</name>
+				<note></note>
+				<keys>
+					<all>B,B,F+HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Triple Fireballs</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,F+HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Triple Ground Fireballs</name>
+				<note></note>
+				<keys>
+					<all>F,F,B,B+LK</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>HoldLP,D,F,F,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>HoldLP,R,BL,R,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>HoldHP,R,R,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>R,R,R,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>sweep</note>
+				<keys>
+					<all>LK,R,R,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,BL,BL,BL,LK,HP,LP,LP,BL,HK,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>Up,Up,B,LP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,LP,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>27%</note>
+				<keys>
+					<all>LK,HP,HP,LP,B+HK</all>
+				</keys>
+			</combos>
+			<morphs>
+				<name>Noob Saibot</name>
+				<note></note>
+				<keys>
+					<all>F,D,D,B,HK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Kung Lao</name>
+				<note></note>
+				<keys>
+					<all>R,R,BL,R</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Baraka</name>
+				<note></note>
+				<keys>
+					<pc>D,D,LK</pc>
+					<psx>D,D,LK</psx>
+					<ss>D,D,LK</ss>
+					<n64>R,R,LP,BL</n64>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Johnny Cage</name>
+				<note></note>
+				<keys>
+					<pc>B,B,D,LP</pc>
+					<psx>B,B,D,LP</psx>
+					<ss>B,B,D,LP</ss>
+					<n64>F,D,F,HP</n64>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Nightwolf</name>
+				<note></note>
+				<keys>
+					<all>Up,Up,Up</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Sonya</name>
+				<note></note>
+				<keys>
+					<all>D,D,D+R+LP+BL</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Sindel</name>
+				<note></note>
+				<keys>
+					<all>B,D,B,LK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Rayden</name>
+				<note></note>
+				<keys>
+					<pc>D,B,F,LK</pc>
+					<psx>D,B,F,LK</psx>
+					<ss>D,B,F,LK</ss>
+					<all>BL,R,BL</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name></name>
+				<note></note>
+				<keys>
+					<all>N64</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Ermac</name>
+				<note></note>
+				<keys>
+					<all>D,D,Up</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Smoke</name>
+				<note></note>
+				<keys>
+					<pc>F,F,LP</pc>
+					<psx>F,F,LP</psx>
+					<ss>F,F,LP</ss>
+					<n64>B,B,D,LK</n64>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Rain</name>
+				<note></note>
+				<keys>
+					<all>R,BL,LK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Cyrax</name>
+				<note></note>
+				<keys>
+					<all>BL,BL,BL</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Stryker</name>
+				<note></note>
+				<keys>
+					<all>F,F,F,HK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Scorpion</name>
+				<note></note>
+				<keys>
+					<all>D,D,F,LP</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Kabal</name>
+				<note></note>
+				<keys>
+					<all>LP,BL,HK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Reptile</name>
+				<note></note>
+				<keys>
+					<all>R,BL,BL,HK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Kitana</name>
+				<note></note>
+				<keys>
+					<all>F,D,F,R</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Jax</name>
+				<note></note>
+				<keys>
+					<all>F,F,D,LP</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Kano</name>
+				<note></note>
+				<keys>
+					<all>F,B,F,BL</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Sektor</name>
+				<note></note>
+				<keys>
+					<all>D,F,B,R</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name></name>
+				<note></note>
+				<keys>
+					<all>Sub</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Mileena</name>
+				<note></note>
+				<keys>
+					<all>R,BL,HK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Liu Kang</name>
+				<note>360° forward</note>
+				<keys>
+					<all>D,B,Up,F,D</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Human Smoke</name>
+				<note></note>
+				<keys>
+					<pc>???</pc>
+					<psx>???</psx>
+					<ss>???</ss>
+					<n64>BL,R,LK</n64>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Jade</name>
+				<note></note>
+				<keys>
+					<all>F,F,D,D+BL</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Sheeva</name>
+				<note></note>
+				<keys>
+					<all>F,D,F+LK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Shao Kahn</name>
+				<note></note>
+				<keys>
+					<all>B,F,HK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Motaro</name>
+				<note></note>
+				<keys>
+					<all>F,D,B,HP</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Kintaro</name>
+				<note></note>
+				<keys>
+					<all>HoldLPfor3sec,rel.</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Goro</name>
+				<note></note>
+				<keys>
+					<all>B,B,B,LK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Classic Sub-Zero</name>
+				<note></note>
+				<keys>
+					<all>BL,BL,R,R</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Klassic Kung Lao</name>
+				<note></note>
+				<keys>
+					<all>B,D,B,HK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Klassic Rayden</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,R</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Klassic Jax</name>
+				<note></note>
+				<keys>
+					<all>D,F,B,HK</all>
+				</keys>
+			</morphs>
+			<morphs>
+				<name>Klassic Kano</name>
+				<note>360° back</note>
+				<keys>
+					<all>F,Up,B,D,F...</all>
+				</keys>
+			</morphs>
+		</moves>
+	</character>
+	<character>
+		<name>Kitana</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Fan Lift</name>
+				<note></note>
+				<keys>
+					<all>B,B,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Fan Toss</name>
+				<note>can be done in air too</note>
+				<keys>
+					<all>F,F,HP+LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Air Punch</name>
+				<note></note>
+				<keys>
+					<all>D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>R,R,BL,BL,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>B,D,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>between close and sweep</note>
+				<keys>
+					<all>D,D,D,D+R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,F,D,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>D,B,F,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,BL,HK,BL,BL,LK,BL,LP,BL,HP,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,D,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>25%</note>
+				<keys>
+					<all>HP,HP,B+LP,F+HP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Kano</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Sword Toss</name>
+				<note></note>
+				<keys>
+					<all>D,B+HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Slice Uppercut</name>
+				<note></note>
+				<keys>
+					<all>D,F+HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ball Roll</name>
+				<note></note>
+				<keys>
+					<all>HoldLKfor3seconds,thenrelease</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Upwards Ball Roll</name>
+				<note></note>
+				<keys>
+					<all>F,D,F+HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Psycho Ball Roll</name>
+				<note></note>
+				<keys>
+					<all>F,D,F+LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Violent Grab</name>
+				<note></note>
+				<keys>
+					<all>D,F+LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Throw (In Air)</name>
+				<note>In Air</note>
+				<keys>
+					<all>BL</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>HoldLP,F,D,D,F,releaseLP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>sweep</note>
+				<keys>
+					<all>LP,BL,BL,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>HoldHP,BL,BL,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,F,D,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>LK,R,R,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LP,BL,LP,HP,BL,HK,LK,BL,HK,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>Up,Up,B,LK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>15%</note>
+				<keys>
+					<all>HK,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,D+LP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,B+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,D+LP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 6</name>
+				<note>26%</note>
+				<keys>
+					<all>HP,HP,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Klassic Kano</name>
+		<moves>
+			<note>This character is not available in the Nintendo 64 version of
+				the game.</note>
+			<specialMoves>
+				<name>Roll Spin</name>
+				<note></note>
+				<keys>
+					<all>HoldBL,360°thenreleaseBL</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Knife Throw</name>
+				<note></note>
+				<keys>
+					<all>HoldBL,B,F</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Knife Spin</name>
+				<note>tap HP for faster spins</note>
+				<keys>
+					<all>B,F,HP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>B,D,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note>past sweep</note>
+				<keys>
+					<all>B,B,D,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,BL,HK,HK,LK,HK,HP,HP,LP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>B,F,F,BL</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,HP,HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>21%</note>
+				<keys>
+					<all>LK,LK,HK,F+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>19%</note>
+				<keys>
+					<all>LK,LK,HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Scorpion</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Spear</name>
+				<note></note>
+				<keys>
+					<all>B,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport Punch</name>
+				<note>can do in air</note>
+				<keys>
+					<all>D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Forward Teleport Punch</name>
+				<note>can do in air</note>
+				<keys>
+					<all>D,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Air Throw</name>
+				<note>can do in air</note>
+				<keys>
+					<all>BL</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>past sweep</note>
+				<keys>
+					<all>D,D,Up,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>past sweep</note>
+				<keys>
+					<all>F,F,B,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 3</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,D,Up,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>F,Up,Up,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,B,B,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>close</note>
+				<keys>
+					<all>B,F,F,B,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,BL,HK,HK,LK,HK,HP,HP,LP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,Up,Up,LP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>24%</note>
+				<keys>
+					<all>HP,HP,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,LK,LK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,U+LP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Sub-Zero</name>
+		<moves>
+			<note>This character is not available in the Nintendo 64 version of
+				the game.</note>
+			<specialMoves>
+				<name>Ice Blast</name>
+				<note></note>
+				<keys>
+					<all>D,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ice Clone</name>
+				<note>can be done in air too</note>
+				<keys>
+					<all>D,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ice Shower</name>
+				<note></note>
+				<keys>
+					<all></all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Front</name>
+				<note></note>
+				<keys>
+					<all>D,F,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Over</name>
+				<note></note>
+				<keys>
+					<all>D,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Behind</name>
+				<note></note>
+				<keys>
+					<all>D,B,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Slide</name>
+				<note></note>
+				<keys>
+					<all>B+LP+BL+LK</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality1</name>
+				<note>sweep</note>
+				<keys>
+					<all>B,B,D,B,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality2</name>
+				<note>close</note>
+				<keys>
+					<all>BL,BL,R,BL,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,Up,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,B,B,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>LK,LK,R,R,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LK,HK,LP,HP,HK,HK,HP,HP,LP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>B,D,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>26%</note>
+				<keys>
+					<all>HP,HP,LK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>23%</note>
+				<keys>
+					<all>HP,HP,LP,B+LK,B+HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,LP,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Human Smoke</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Spear</name>
+				<note></note>
+				<keys>
+					<all>B,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport Punch</name>
+				<note>can do in air</note>
+				<keys>
+					<all>D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Air Throw</name>
+				<note>can do in air</note>
+				<keys>
+					<all>BL</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>outside sweep</note>
+				<keys>
+					<all>F,F,B,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>outside sweep</note>
+				<keys>
+					<all>R,BL,R,R,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>half screen</note>
+				<keys>
+					<all>F,F,F,B,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>D,F,F,F,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,BL,LK,HK,HP,HK,HP,HK,LP,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,Up,Up,LP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>15%</note>
+				<keys>
+					<all>HK,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>18%</note>
+				<keys>
+					<all>HK,D+LP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>19%</note>
+				<keys>
+					<all>HP,HP,U+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>24%</note>
+				<keys>
+					<all>HP,HP,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Reptile</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Acid Spit</name>
+				<note></note>
+				<keys>
+					<all>F,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Fast Force Ball</name>
+				<note></note>
+				<keys>
+					<all>F,F,HP+LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Slow Force Ball</name>
+				<note></note>
+				<keys>
+					<all>B,B,HP+LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Slide</name>
+				<note></note>
+				<keys>
+					<all>B+LP+BL+LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Invisibility</name>
+				<note></note>
+				<keys>
+					<all>Up,Up,D,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Reverse Elbow</name>
+				<note></note>
+				<keys>
+					<all>B,F,LK</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>outside sweep</note>
+				<keys>
+					<all>B,F,D,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,Up,Up,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>D,D,D,Up,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,F,B,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>close</note>
+				<keys>
+					<all>D,F,F,B,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,BL,HK,HK,BL,HP,LP,LK,LK,BL,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>BL,R,BL,BL</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,D+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>21%</note>
+				<keys>
+					<all>HK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>24%</note>
+				<keys>
+					<all>HP,HP,HK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Jax</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Bionic Rush</name>
+				<note></note>
+				<keys>
+					<all>F,F,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Single Shot</name>
+				<note></note>
+				<keys>
+					<all>B,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Double Shot</name>
+				<note></note>
+				<keys>
+					<all>F,F,B,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ground Smash</name>
+				<note></note>
+				<keys>
+					<all>HoldLKfor3seconds,thenrelease</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Gotcha Grab</name>
+				<note></note>
+				<keys>
+					<all>F,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Quad Slam</name>
+				<note></note>
+				<keys>
+					<all>AfterthrowrepeatedlytapHP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Backbreaker</name>
+				<note>in air</note>
+				<keys>
+					<all>BL</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>HoldBL,Up,D,F,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>full screen</note>
+				<keys>
+					<all>R,BL,R,R,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>HoldLP,F,F,D,F,thenreleaseLP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>LK,R,R,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,HP,BL,LP,HP,HP,HP,BL,LP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>D,F,D,LP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>24%</note>
+				<keys>
+					<all>HP,HP,BL,LP,B+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>33%</note>
+				<keys>
+					<all>HK,HK,D+HP,HP,BL,LP,B+HP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Klassic Jax</name>
+		<moves>
+			<note>This character is not available in the Nintendo 64 version of
+				the game.</note>
+			<specialMoves>
+				<name>Energy Wave</name>
+				<note></note>
+				<keys>
+					<all>F,D,B,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Air Energy Wave</name>
+				<note>in the air</note>
+				<keys>
+					<all>F,D,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Backbreaker</name>
+				<note>in air, close</note>
+				<keys>
+					<all>BL</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Gotcha Grab</name>
+				<note>tap LP for more hits</note>
+				<keys>
+					<all>F,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ground Slam</name>
+				<note></note>
+				<keys>
+					<all>HoldLKfor3seconds,thenreleaseLK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Quad Throw</name>
+				<note></note>
+				<keys>
+					<all>ThrowandtapHPrepeatedly</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>HoldLP,F,F,F,thereleaseLP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,Up,D,Up,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>sweep</note>
+				<keys>
+					<all>D,D,Up,Up,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,BL,HK,LP,LP,HP,BL,HK,HK,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>Up,Up,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>28%</note>
+				<keys>
+					<all>HP,HP,HP,LP,B+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>28%</note>
+				<keys>
+					<all>HK,LK,LK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Mileena</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Sai Toss</name>
+				<note></note>
+				<keys>
+					<all>HoldHPfor2seconds,thenrelease</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Air Kick</name>
+				<note></note>
+				<keys>
+					<all>F,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ground Roll</name>
+				<note></note>
+				<keys>
+					<all>B,B,D,HK</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>full screen</note>
+				<keys>
+					<all>B,B,B,F,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>D,F,D,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>F,D,D,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,F,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>D,D,B,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LP,LP,HP,BL,HK,LK,LK,HK,BL,HP,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>D,D,D,LP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,Up+LP,D+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,Up+LK,Up+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>30%</note>
+				<keys>
+					<all>HP,HP,HK,HK,Up+LK,Up+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>24%</note>
+				<keys>
+					<all>HP,HP,HK,HK,D</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>16%</note>
+				<keys>
+					<all>HK,HK,D</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Sektor</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Straight Missile</name>
+				<note></note>
+				<keys>
+					<all>F,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Homing Missile</name>
+				<note></note>
+				<keys>
+					<all>F,D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport Punch</name>
+				<note></note>
+				<keys>
+					<all>F,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Double Missile</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,LP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>sweep</note>
+				<keys>
+					<all>LP,R,R,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>more than half screen</note>
+				<keys>
+					<all>F,F,F,B,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,D,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note>close</note>
+				<keys>
+					<all>B,D,D,D,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>half screen</note>
+				<keys>
+					<all>R,R,R,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,BL,BL,HK,HK,LK,LK,LP,LP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>R,R,R,D</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>15%</note>
+				<keys>
+					<all>HK,HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>26%</note>
+				<keys>
+					<all>HP,HP,HK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,D+LP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Liu Kang</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>High Fireball</name>
+				<note></note>
+				<keys>
+					<all>F,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Low Fireball</name>
+				<note></note>
+				<keys>
+					<all>F,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Flying Kick</name>
+				<note></note>
+				<keys>
+					<all>F,F,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Bicycle Kick</name>
+				<note></note>
+				<keys>
+					<all>HoldLKfor3seconds,thenrelease</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Super Kick</name>
+				<note></note>
+				<keys>
+					<all>HoldLK,B,F,releaseLK</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note></note>
+				<keys>
+					<all>F,F,D,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note></note>
+				<keys>
+					<all>Up,D,Up,Up,BL+R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>sweep</note>
+				<keys>
+					<all>D,D,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,D,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>R,R,R,D+R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LP,HP,BL,LK,HK,LK,HK,LP,LP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>R,BL,BL,LK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>13%</note>
+				<keys>
+					<all>HP,HP,B+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>22%</note>
+				<keys>
+					<all>HK,LK,HK,LK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>25%</note>
+				<keys>
+					<all>HP,LK,LK,HK,LK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>28%</note>
+				<keys>
+					<all>HP,HP,BL,LK,LK,HK,LK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>28%</note>
+				<keys>
+					<all>JumpKick,HighFireball,FlyingKick</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Jade</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>High Boomerang</name>
+				<note></note>
+				<keys>
+					<all>B,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Mid Boomerang</name>
+				<note></note>
+				<keys>
+					<all>B,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Low Boomerang</name>
+				<note></note>
+				<keys>
+					<all>B,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Projectile Invincibility</name>
+				<note></note>
+				<keys>
+					<all>B,F,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Shadow Kick</name>
+				<note></note>
+				<keys>
+					<all>D,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Second Chance</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,LP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>Up,Up,D,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>R,R,R,BL,R</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note></note>
+				<keys>
+					<all>F,D,F,F,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,F,D,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>B,D,B,B,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LK,HP,LP,HK,HK,LK,BL,BL,HP,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>B,F,D,R</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,D+LP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>25%</note>
+				<keys>
+					<all>HP,HP,D+LP,LK,HK,B+LK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Sheeva</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Ground Stomp</name>
+				<note></note>
+				<keys>
+					<all>B,D,B,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Fireball</name>
+				<note></note>
+				<keys>
+					<all>D,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Aerial Stomp</name>
+				<note></note>
+				<keys>
+					<all>D,Up</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>F,D,D,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>HoldHK,B,F,F,releaseHK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>R,BL,BL,BL,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,D,B,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>F,F,D,F,PAUSE+HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LP,BL,LK,HK,BL,HK,LK,BL,LP,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>D,F,D,F,LP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>25%</note>
+				<keys>
+					<all>HP,HP,LP,F+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>27%</note>
+				<keys>
+					<all>HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>42%</note>
+				<keys>
+					<all>HP,HP,LP,HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>27%</note>
+				<keys>
+					<all>HK,HK,B+HP,B+HPorB+LP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Kung Lao</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Hat Toss</name>
+				<note></note>
+				<keys>
+					<all>B,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Diving Kick</name>
+				<note>in air</note>
+				<keys>
+					<all>D+HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Spinning Shield</name>
+				<note></note>
+				<keys>
+					<all>F,D,F,R,R,R</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport Attack</name>
+				<note></note>
+				<keys>
+					<all>D,Up</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Double Teleport Attack</name>
+				<note></note>
+				<keys>
+					<all>D,D,Up</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note></note>
+				<keys>
+					<all>R,BL,R,BL,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,B,D,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>R,R,R,R,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,F,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>past sweep</note>
+				<keys>
+					<all>R,LP,R,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LP,LK,HK,BL,HP,LP,LK,HK,BL,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>D,D,F,F,LK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>19%</note>
+				<keys>
+					<all>LK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>34%</note>
+				<keys>
+					<all>HP,LP,HP,LP,LK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,LK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Klassic Kung Lao</name>
+		<moves>
+			<note>This character is not available in the Nintendo 64 version of
+				the game.</note>
+			<specialMoves>
+				<name>Shield Spin</name>
+				<note>tap LK to keep spinning</note>
+				<keys>
+					<all>Up,Up,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Torpedo</name>
+				<note></note>
+				<keys>
+					<all>B,B,F</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Hat Throw</name>
+				<note></note>
+				<keys>
+					<all>B,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport</name>
+				<note></note>
+				<keys>
+					<all>D,Up</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Dive Kick</name>
+				<note>in the air</note>
+				<keys>
+					<all>D+HK</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note></note>
+				<keys>
+					<all>HoldLP,B,B,F,thenreleaseLP(aimhatuptowardthe</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name></name>
+				<note>Full Screen</note>
+				<keys>
+					<all>neck)</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,F,B,B,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>sweep</note>
+				<keys>
+					<all>B,B,B,D,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LP,HK,HK,LP,LP,LP,LK,LK,BL,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,F,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>27%</note>
+				<keys>
+					<all>HP,LP,LP,D+LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>30%</note>
+				<keys>
+					<all>HK,LK,HK,HK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Smoke</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Spear</name>
+				<note></note>
+				<keys>
+					<all>B,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport Uppercut</name>
+				<note></note>
+				<keys>
+					<all>F,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Air Throw</name>
+				<note>in air</note>
+				<keys>
+					<all>BL</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Invisibility</name>
+				<note></note>
+				<keys>
+					<all>HoldBL,Up,Up,R</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>full screen</note>
+				<keys>
+					<all>HoldBL,Up,Up,F,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>sweep</note>
+				<keys>
+					<all>HoldR+BL,D,D,F,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>full screen</note>
+				<keys>
+					<all>D,F,F,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,B,B,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>full screen</note>
+				<keys>
+					<all>R,R,R,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LK,LK,HK,BL,BL,LP,LP,HP,HP,BL,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,F,D,LK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>26%</note>
+				<keys>
+					<all>HP,HP,LK,HK,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,HK,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,B+LP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Nightwolf</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Shoulder Ram</name>
+				<note></note>
+				<keys>
+					<all>F,F,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Arrow Shot</name>
+				<note></note>
+				<keys>
+					<all>D,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Hatchet Swipe</name>
+				<note></note>
+				<keys>
+					<all>D,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Projectile Reflection</name>
+				<note></note>
+				<keys>
+					<all>B,B,B,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Fast Shoulder Ram</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,HK</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>Up,Up,B,F,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>sweep</note>
+				<keys>
+					<all>B,B,D,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,D,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>F,B,F,B,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>sweep</note>
+				<keys>
+					<all>R,R,R,D</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,HK,LK,LK,BL,BL,LP,LP,HP,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>R,R,BL</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>23%</note>
+				<keys>
+					<all>HP,HP,LP,D,F+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,LP,HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>28%</note>
+				<keys>
+					<all>LK,HP,HP,LP,D,F+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>27%</note>
+				<keys>
+					<all>HK,HP,HP,LP,HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Sindel</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Fireball</name>
+				<note></note>
+				<keys>
+					<all>F,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Air Fireball</name>
+				<note>while jumping or floating</note>
+				<keys>
+					<all>D,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Wave Dizzy</name>
+				<note></note>
+				<keys>
+					<all>F,F,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Float</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,HK,pressBLtoland</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Double Fireball</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,LP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>sweep</note>
+				<keys>
+					<all>R,R,BL,R,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>R,BL,BL,R+BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,Up,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>R,R,R,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>R,R,R,R,R,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,BL,LK,BL,LK,HK,BL,HK,LK,BL,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>D,D,D,LP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>19%</note>
+				<keys>
+					<all>HP,HP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>25%</note>
+				<keys>
+					<all>HP,HP,LP,HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>27%</note>
+				<keys>
+					<all>HK,HP,HP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>33%</note>
+				<keys>
+					<all>HK,HP,HP,LP,HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,HK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Ermac</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Mind Lift</name>
+				<note></note>
+				<keys>
+					<all>B,D,B,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Green Blast</name>
+				<note></note>
+				<keys>
+					<all>D,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport Punch</name>
+				<note></note>
+				<keys>
+					<all>D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>R,BL,R,R,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>sweep</note>
+				<keys>
+					<all>D,Up,D,D,D,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,B,B,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,D,B,B,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>F,F,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,HP,LP,BL,HK,LK,BL,HP,LP,LK,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>R,R,R,R,LK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>15%</note>
+				<keys>
+					<all>HK,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>19%</note>
+				<keys>
+					<all>HP,HP,B+LP,D,F,HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>24%</note>
+				<keys>
+					<all>HP,HP,B+LP,HK,B+LK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Klassic Sub-Zero</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Ice Blast</name>
+				<note></note>
+				<keys>
+					<all>D,F,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ice Rain</name>
+				<note></note>
+				<keys>
+					<all>D,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Near Ice Rain</name>
+				<note></note>
+				<keys>
+					<all>D,F,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Far Ice Rain</name>
+				<note></note>
+				<keys>
+					<all>D,B,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Sub-Xerox</name>
+				<note>can do in air</note>
+				<keys>
+					<all>D,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ground Freeze</name>
+				<note></note>
+				<keys>
+					<all>D,B,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ground Slide</name>
+				<note></note>
+				<keys>
+					<all>B+LP+BL+LK</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>D,D,D,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>D,F,F,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<pc>???</pc>
+					<psx>???</psx>
+					<ss>???</ss>
+					<n64>B,B,F,D,LP</n64>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note>close</note>
+				<keys>
+					<pc>HK,R,R,Up</pc>
+					<psx>HK,R,R,Up</psx>
+					<ss>HK,R,R,Up</ss>
+					<n64>B,D,D,F,LK</n64>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LP,HP,BL,LK,LK,HK,HK,LP,HP,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LK,HK,LP,HP,HK,HK,HP,HP,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,D,F,F,HP</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>26%</note>
+				<keys>
+					<all>HP,HP,LK,B+HK,F+LK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>19%</note>
+				<keys>
+					<all>LK,B+HK,F+LK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>22%</note>
+				<keys>
+					<all>HP,HP,D+LP,D+HP</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Stryker</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Rushing Attack</name>
+				<note></note>
+				<keys>
+					<all>F,F,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Baton Takedown</name>
+				<note></note>
+				<keys>
+					<all>F,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Single Bomb Low</name>
+				<note></note>
+				<keys>
+					<all>D,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Single Bomb High</name>
+				<note></note>
+				<keys>
+					<all>D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Double Bomb Low</name>
+				<note></note>
+				<keys>
+					<all>F,D,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Double Bomb High</name>
+				<note></note>
+				<keys>
+					<all>F,D,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>The Gat</name>
+				<note></note>
+				<keys>
+					<all>B,F,HP</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>close</note>
+				<keys>
+					<all>D,F,D,F,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>full screen</note>
+				<keys>
+					<all>F,F,F,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>sweep</note>
+				<keys>
+					<all>R,R,R,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>D,F,F,B,HP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>LP,R,R,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,LP,HK,LK,HP,LP,LK,HK,HP,LK,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>F,Up,Up,HK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>18%</note>
+				<keys>
+					<all>HP,HP,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,HP,HP,LP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>23%</note>
+				<keys>
+					<all>HK,LK,B+LP,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>19%</note>
+				<keys>
+					<all>HK,LK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Kabal</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Web Spin</name>
+				<note></note>
+				<keys>
+					<all>B,F,LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Fireball</name>
+				<note>can do in air</note>
+				<keys>
+					<all>B,B,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Ground Saw</name>
+				<note></note>
+				<keys>
+					<all>B,B,B,R</all>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality 1</name>
+				<note>half screen</note>
+				<keys>
+					<all>D,D,B,F,BL</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Fatality 2</name>
+				<note>close</note>
+				<keys>
+					<all>R,BL,BL,BL,HK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Animality</name>
+				<note>close</note>
+				<keys>
+					<all>HoldHP,F,F,D,F,thenreleaseHP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Babality</name>
+				<note></note>
+				<keys>
+					<all>R,R,LK</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Friendship</name>
+				<note></note>
+				<keys>
+					<all>R,LK,R,R,Up</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Brutality</name>
+				<note></note>
+				<keys>
+					<all>HP,BL,LK,LK,LK,HK,LP,LP,LP,HP,LP</all>
+				</keys>
+			</finishingMoves>
+			<finishingMoves>
+				<name>Stage</name>
+				<note></note>
+				<keys>
+					<all>BL,BL,HK</all>
+				</keys>
+			</finishingMoves>
+			<combos>
+				<name>Combo 1</name>
+				<note>13%</note>
+				<keys>
+					<all>HP,HP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 2</name>
+				<note>15%</note>
+				<keys>
+					<all>LK,LK,HP,HP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 3</name>
+				<note>25%</note>
+				<keys>
+					<all>HP,HP,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 4</name>
+				<note>17%</note>
+				<keys>
+					<all>HP,HP,D+LP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 5</name>
+				<note>17%</note>
+				<keys>
+					<all>LK,LK,HP,HP,D+LP,D+HP</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 6</name>
+				<note>18%</note>
+				<keys>
+					<all>LK,LK,HP,HP,HK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 7</name>
+				<note>18%</note>
+				<keys>
+					<all>HK,LK,B+HK</all>
+				</keys>
+			</combos>
+			<combos>
+				<name>Combo 8</name>
+				<note>24%</note>
+				<keys>
+					<all>HK,LK,HK,B+HK</all>
+				</keys>
+			</combos>
+		</moves>
+	</character>
+	<character>
+		<name>Khameleon</name>
+		<moves>
+			<note> Khameleon has all the moves of the other three female ninjas:
+				Mileena, Kitana and Jade.</note>
+		</moves>
+	</character>
+	<character>
+		<name>Chameleon</name>
+		<moves>
+			<note> Chameleon has all the moves of the other male ninjas: Rain,
+				Noob Saibot, Scorpion, Reptile, Ermac, Sub-Zero, Ninja Smoke</note>
+		</moves>
+	</character>
+	<character>
+		<name>Goro</name>
+		<moves>
+			<note>This character is not available in the Nintendo 64 version of
+				the game.</note>
+			<specialMoves>
+				<name>Grab &amp; Pound</name>
+				<note></note>
+				<keys>
+					<all>F,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Spinning Fists</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,HK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Fireball</name>
+				<note></note>
+				<keys>
+					<all>B,B,B,LP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Roar</name>
+				<note></note>
+				<keys>
+					<all>D,D,LK</all>
+				</keys>
+			</specialMoves>
+		</moves>
+	</character>
+	<character>
+		<name>Shao Kahn</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Hammer</name>
+				<note></note>
+				<keys>
+					<pc>B,F,HP</pc>
+					<psx>B,F,HP</psx>
+					<ss>B,F,HP</ss>
+					<n64>F,B,B,HP</n64>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Fireball</name>
+				<note></note>
+				<keys>
+					<pc>B,B,F,LP</pc>
+					<psx>B,B,F,LP</psx>
+					<ss>B,B,F,LP</ss>
+					<n64>F,D,F,LK</n64>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Grab and Smack</name>
+				<note></note>
+				<keys>
+					<pc>F,F,HP</pc>
+					<psx>F,F,HP</psx>
+					<ss>F,F,HP</ss>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Shoulder</name>
+				<note></note>
+				<keys>
+					<pc>D,F,LP</pc>
+					<psx>D,F,LP</psx>
+					<ss>D,F,LP</ss>
+					<n64>F,F,HP</n64>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Upwards Shoulder</name>
+				<note></note>
+				<keys>
+					<pc>D,F,HP</pc>
+					<psx>D,F,HP</psx>
+					<ss>D,F,HP</ss>
+					<n64>D,D,F, HK</n64>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Insult</name>
+				<note></note>
+				<keys>
+					<pc>D,D,LK</pc>
+					<psx>D,D,LK</psx>
+					<ss>D,D,LK</ss>
+					<n64>Up,Up,R</n64>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Laugh</name>
+				<note></note>
+				<keys>
+					<pc>D,D,HK</pc>
+					<psx>D,D,HK</psx>
+					<ss>D,D,HK</ss>
+					<n64>D,D,R</n64>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality</name>
+				<note>sweep</note>
+				<keys>
+					<all>F,F,B,HP</all>
+				</keys>
+			</finishingMoves>
+		</moves>
+	</character>
+	<character>
+		<name>Motaro</name>
+		<moves>
+			<note></note>
+			<specialMoves>
+				<name>Fireball</name>
+				<note></note>
+				<keys>
+					<pc>F,D,B,HP</pc>
+					<psx>F,D,B,HP</psx>
+					<ss>F,D,B,HP</ss>
+					<n64>HoldLKfor3sec.</n64>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Sweep</name>
+				<note></note>
+				<keys>
+					<all>B+LK</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Grab and Smack</name>
+				<note></note>
+				<keys>
+					<pc>F,F,HP</pc>
+					<psx>F,F,HP</psx>
+					<ss>F,F,HP</ss>
+					<n64>F,F,F,HP</n64>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport</name>
+				<note></note>
+				<keys>
+					<pc>D,Up</pc>
+					<psx>D,Up</psx>
+					<ss>D,Up</ss>
+					<n64>D,B,HK</n64>
+				</keys>
+			</specialMoves>
+			<finishingMoves>
+				<name>Fatality</name>
+				<note>close</note>
+				<keys>
+					<all>F,F,F,HK</all>
+				</keys>
+			</finishingMoves>
+		</moves>
+	</character>
+	<character>
+		<name>Kintaro</name>
+		<moves>
+			<note>This character is not available in the Nintendo 64 version of
+				the game.</note>
+			<specialMoves>
+				<name>Fireball</name>
+				<note></note>
+				<keys>
+					<all>B,B,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Teleport Stomp</name>
+				<note></note>
+				<keys>
+					<all>D,Up</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Grab Smash</name>
+				<note></note>
+				<keys>
+					<all>F,F,HP</all>
+				</keys>
+			</specialMoves>
+			<specialMoves>
+				<name>Roar</name>
+				<note></note>
+				<keys>
+					<all>D,D,LK</all>
+				</keys>
+			</specialMoves>
+		</moves>
+	</character>
+</characters>

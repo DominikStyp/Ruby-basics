@@ -1,0 +1,1257 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="keywords" content="mortal kombat, mkx, mk10, mortal kombat x, secrets, codes, kodes, cheats, hidden character, special move, finishing moves, guide, trailers, interviews, modding">
+		<meta name="description" content="Mortal Kombat Secrets is the most informative Mortal Kombat fan sites all over the world, featuring information not only about the games, but the films, the series and the books too. The site has a rich download section and forums too.">
+		<meta property="og:title" content="Mortal Kombat Secrets - MKSecrets.Net">
+		<meta property="og:type" content="game">
+		<meta property="og:image" content="http://www.mksecrets.net/images/index/SocialImage.jpg">
+		<meta property="og:site_name" content="Mortal Kombat Secrets - The Most Informative Mortal Kombat Website On The Web">
+		<meta property="fb:admins" content="100000198071016">
+		<title>Mortal Kombat Trilogy - Special Moves - Mortal Kombat Secrets</title>
+		<link rel="stylesheet" type="text/css" href="/styles/MKSecretsClassic.css">
+		<!-- For third-generation iPad with high-resolution Retina display: -->
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
+		<!-- For iPhone with high-resolution Retina display: -->
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
+		<!-- For first- and second-generation iPad: -->
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png">
+		<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+		<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+		<!-- HTML5 logo Standards -->
+		<link rel="icon" type="image/png" href="/logo-144x144.png">
+		<!-- Opera Speed Dial -->
+		<link rel="icon" type="image/jpeg" href="/logo-360x225.jpg">
+		<!-- Default -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link href="https://plus.google.com/117327542524790709348" rel="publisher">
+		<script src="https://apis.google.com/js/platform.js" async defer></script>
+	</head>
+	
+	<body>
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id))
+				return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+	<script>
+		!function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (!d.getElementById(id)) {
+				js = d.createElement(s);
+				js.id = id;
+				js.async = true;
+				js.src = "//platform.twitter.com/widgets.js";
+				fjs.parentNode.insertBefore(js, fjs);
+			}
+		}(document, "script", "twitter-wjs");
+	</script>
+
+	<div id="page">
+			<div id="top">
+				<div id="googleAds">
+					      <script>
+var cpmstar_rnd=Math.round(Math.random()*999999);
+var cpmstar_pid=24703;
+document.writeln("<SCR"+"IPT asunc src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
+</script>				</div>
+				<div id="logIn">
+					<div id="logInImage">
+	<img class="userAvatar" src="http://www.mksecrets.net/images/index/noavatar.png" width = "40" height = "40" alt="User Avatar">
+</div>
+
+<div id="logInText">
+
+	<form class= "LogInForm" action="http://www.mksecrets.net/forums/eng/ucp.php?mode=login" method="post">
+		<input class= "LogInInput" type="hidden" name="sid" value="<!--{INCLUDE: sessionID}-->">
+			<script>
+			       document.write('<input type="hidden" name="redirect" value="' + location.href + '" />');
+			</script>
+		
+		<input class= "LogInInput" type="text" name="username" size="8" value="Username" tabindex="1">
+		<input class= "LogInInput" type="password" name="password" size="8" tabindex="2" value="Password">
+		<input class= "LogInInput" type="submit" name="login" value="Log In" tabindex="4" /><br>
+		<input class= "LogInInput" type="checkbox" name="autologin" tabindex="3"> Remember, <a href="http://www.mksecrets.net/forums/eng/ucp.php?mode=register">Register</a>
+	</form>
+</div>				</div>
+			</div>
+			
+			<div id="main">
+				
+				<div id="banner">
+					<a href="http://www.mksecrets.net/">
+						<img id="bannerImg" src="images/mkt/banner.jpg" alt="Mortal Kombat Secrets" title="Mortal Kombat Secrets">					</a>
+				</div>
+				
+				<div id="languageBar">
+					Switch to: 
+		<a href="/"><img src="/images/index/english-flag.gif" alt="English" title="English"></a>
+		<a href="/index.php?lang=bg"><img src="/images/index/bulgarian-flag.gif" alt="Bulgarian" title="Bulgarian"></a>				</div>
+				
+				<div id="columns">
+				
+					<div id="side1">
+						<p class="center">
+     <a href="http://www.youtube.com/MKSecrets"><img style="border: 0px" width="25" height="25" src="/images/index/YouTubeChannel.png" alt="YouTube Channel"></a>
+     <a href="http://www.twitter.com/MKSecrets"><img style="border: 0px" width="25" height="25" src="http://twitter-badges.s3.amazonaws.com/t_logo-b.png" alt="Twitter Page"></a>
+     <a href="https://www.facebook.com/MKSecrets.Net"><img style="border: 0px" width="25" height="25" src="/images/index/FaceBookPage.png" alt="Facebook Page"></a><br>
+     <a href="https://plus.google.com/+MKSecretsNet"><img style="border:0;width:25px;height:25px;" src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+ Page"></a>
+     <a href="http://www.vk.com/MKSecrets"><img style="border: 0px" width="25" height="25" src="/images/index/VKontaktePage.png" alt="VKontakte Page"></a>
+</p>
+
+<ul class="menu">
+	<li><img class="menu news" src="/images/index/ph.gif" alt="News"></li>
+	<li>
+		<ul class="section">
+			<li><a class="menuEntry" href="/">Latest News</a></li>
+			<li><a class="menuEntry" href="/index.php?section=news&amp;lang=eng&amp;contentID=7255">News Archive</a></li>
+			<li><a class="menuEntry" href="/index.php?section=submit&amp;lang=eng&amp;contentID=4653">Submit News</a></li>
+		</ul>
+	</li>
+	<li class="menuCategory"><img class="menu community" src="/images/index/ph.gif" alt="Community"></li>
+	<li>
+		<ul class="section">
+			<li><a class="menuEntry" href="/forums/eng/index.php">Forums</a></li>
+			<li><a class="menuEntry" href="/forums/eng/chat.php">Chat Room</a></li>
+		</ul>
+	</li>
+	<li class="menuCategory"><img class="menu games" src="/images/index/ph.gif" alt="Games"></li>
+	<li>
+		<ul class="section">
+			<li><a class="menuEntry" href="/mk1/eng/index.php">Mortal Kombat</a></li>
+			<li><a class="menuEntry" href="/mk2/eng/index.php">Mortal Kombat II</a></li>
+			<li><a class="menuEntry" href="/mk3/eng/index.php">Mortal Kombat 3</a></li>
+			<li><a class="menuEntry" href="/umk3/eng/index.php">Ultimate MK3</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4005">MK Trilogy</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mk4&amp;lang=eng&amp;contentID=5982&amp;title=Mortal-Kombat-4">Mortal Kombat 4</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkg&amp;lang=eng&amp;contentID=6032&amp;title=Mortal-Kombat-Gold">Mortal Kombat Gold</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkadv&amp;lang=eng&amp;contentID=5503">MK Advance</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkda&amp;contentID=8094&amp;title=Mortal-Kombat-Deadly-Alliance">MK: Deadly Alliance</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkte&amp;lang=eng&amp;contentID=5842&amp;title=Mortal-Kombat-Tournament-Edition">MK: Tournament Edition</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkd&amp;lang=eng&amp;contentID=5510">MK: Deception</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mku&amp;lang=eng&amp;contentID=5555">MK: Unchained</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mka&amp;lang=eng&amp;contentID=5819&amp;title=Mortal-Kombat-Armageddon">MK: Armageddon</a></li>
+			<li><a class="menuEntry" href="/index.php?section=umknds&amp;lang=eng&amp;contentID=5803&amp;title=Ultimate-Mortal-Kombat-Nintendo-DS">Ultimate MK (NDS)</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkvsdcu&amp;lang=eng&amp;contentID=5563">MK VS. DC Universe</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mk9&amp;lang=eng&amp;contentID=4264"><b>Mortal Kombat 9</b></a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkak&amp;lang=eng&amp;contentID=5233&amp;title=Mortal_Kombat_Arcade_Kollection_Summary">MK: Arcade Kollection</a></li>
+			<li><a class="menuEntry" href="/index.php?section=injustice&amp;lang=eng&amp;contentID=5728&amp;title=Injustice-Gods-Among-Us">Injustice: Gods Among Us</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkx&amp;lang=eng&amp;contentID=7186&amp;title=Mortal-Kombat-X"><b>Mortal Kombat X</b></a></li>
+		</ul>
+	</li>
+	<li class="menuCategory"><img class="menu adventures" src="/images/index/ph.gif" alt="Adventure Games"></li>
+	<li>
+		<ul class="section">
+			<li><a class="menuEntry" href="/index.php?section=mkmsz&amp;lang=eng&amp;contentID=4009">MKM: Sub-Zero</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mksf&amp;lang=eng&amp;contentID=4016">MK: Special Forces</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mksm&amp;lang=eng&amp;contentID=4602">MK: Shaolin Monks</a></li>
+		</ul>
+	</li>
+	<li class="menuCategory"><img class="menu movies" src="/images/index/ph.gif" alt="Movies"></li>
+	<li>
+		<ul class="section">
+			<li><a class="menuEntry" href="/index.php?section=mktm&amp;lang=eng&amp;contentID=4228">MK: The Movie</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkann&amp;lang=eng&amp;contentID=4235">MK: Annihilation</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mktnm&amp;lang=eng&amp;contentID=4287"><b>MK: The New Movie</b></a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkc&amp;lang=eng&amp;contentID=4240">MK: Conquest</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkl&amp;lang=eng&amp;contentID=4570"><b>MK: Legacy Series</b></a></li>
+			<li><a class="menuEntry" href="/index.php?section=mkdotr&amp;lang=eng&amp;contentID=4246">MK: DOTR</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mktjb&amp;lang=eng&amp;contentID=4251">MK: The Journey Begins</a></li>
+		</ul>
+	</li>
+	<li class="menuCategory"><img class="menu fanmade" src="/images/index/ph.gif" alt="Fan Made"></li>
+	<li>
+		<ul class="section">
+			<li><a class="menuEntry" href="/index.php?section=fanart&amp;lang=eng&amp;contentID=4642">Fan Art</a></li>
+			<li><a class="menuEntry" href="/index.php?section=fakes&amp;lang=eng&amp;contentID=4638">Fakes</a></li>
+			<li><a class="menuEntry" href="/index.php?section=fiction&amp;lang=eng&amp;contentID=4363">Fan Fiction</a></li>
+			<li><a class="menuEntry" href="/index.php?section=mk4e&amp;lang=eng&amp;contentID=6047&amp;title=Mortal-Kombat-4-Enhanced">MK4: Enhanced</a></li>
+		</ul>
+	</li>
+	<li class="menuCategory"><img class="menu stuff" src="/images/index/ph.gif" alt="Misc. Stuff"></li>
+	<li>
+		<ul class="section">
+			<li><a class="menuEntry" href="/index.php?section=downloads&amp;lang=eng&amp;contentID=4278">Downloads</a></li>
+			<li><a class="menuEntry" href="/index.php?section=finishers&amp;lang=eng&amp;contentID=5126">Finisher Theater</a></li>
+			<li><a class="menuEntry" href="/index.php?section=kolumn&amp;lang=eng&amp;contentID=4056"><b>Kombat Kolumns</b></a></li>
+			<li><a class="menuEntry" href="/index.php?section=gc2008&amp;lang=eng&amp;contentID=5617">Games Convention</a></li>
+			<li><a class="menuEntry" href="/index.php?section=emulation&amp;lang=eng&amp;contentID=5376">Emulation</a></li>
+			<li><a class="menuEntry" href="/index.php?section=store&amp;lang=eng&amp;contentID=4626"><b>Online Store</b></a></li>
+			<li><a class="menuEntry" href="/index.php?section=contest&amp;lang=eng&amp;contentID=5155">Contests</a></li>
+		</ul>
+	</li>
+	<li class="menuCategory"><img class="menu site" src="/images/index/ph.gif" alt="Site Info"></li>
+	<li>
+		<ul class="section">
+			     
+			<li><a class="menuEntry" href="/index.php?section=staff&amp;lang=eng&amp;contentID=4336">Contact Us</a></li>
+			<li><a class="menuEntry" href="/index.php?section=site&amp;lang=eng&amp;contentID=4227">About Us</a></li>
+			<li><a class="menuEntry" href="/index.php?section=links&amp;lang=eng&amp;contentID=4302">Affiliates And Links</a></li>
+			<li><a class="menuEntry" href="/index.php?section=site&amp;lang=eng&amp;contentID=5036">Privacy Policy</a></li>
+		</ul>
+	</li>
+</ul>
+						<p class="center">
+							      <script>
+var cpmstar_rnd=Math.round(Math.random()*999999);
+var cpmstar_pid=24701;
+document.writeln("<SCR"+"IPT asunc src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
+</script>						</p>
+					</div>
+					
+					<div id="content">
+						<article><h1>Mortal Kombat Trilogy - Special Moves</h1><p align="center" class="note">The following moves are compatible with the PC (Windows and DOS), Sega Saturn, Nintendo 64 and Sony Play Station versions of Mortal Kombat Trilogy. If some move is available only for a specific version this will be mentioned right after the key combination with an Abbreviation. If you find an error please inform us immediately. If you are looking for a Moves list for other platform you can find it at the bottom of this page.)</p>
+
+<p class="center">For all versions:<br />
+      <a href="#JohnnyCage">Johnny Cage</a>,
+      <a href="#NoobSaibot">Noob Saibot</a>,
+      <a href="#Baraka">Baraka</a>,
+      <a href="#Cyrax">Cyrax</a>,
+      <a href="#Sonya">Sonya</a>,
+      <a href="#Rayden">Rayden</a>,
+      <a href="#Rain">Rain</a>,
+      <a href="#ShangTsung">Shang Tsung</a>,
+      <a href="#Kitana">Kitana</a>,
+      <a href="#Kano">Kano</a>,
+      <a href="#Scorpion">Scorpion</a>,
+      <a href="#HumanSmoke">Human Smoke</a>,
+      <a href="#Reptile">Reptile</a>,
+      <a href="#Jax">Jax</a>,
+      <a href="#Mileena">Mileena</a>,
+      <a href="#Sektor">Sektor</a>,
+      <a href="#LiuKang">Liu Kang</a>,
+      <a href="#Jade">Jade</a>,
+      <a href="#Sheeva">Sheeva</a>,
+      <a href="#KungLao">Kung Lao</a>,
+      <a href="#Smoke">Smoke</a>,
+      <a href="#Nightwolf">Nightwolf</a>,
+      <a href="#Sindel">Sindel</a>,
+      <a href="#Ermac">Ermac</a>,
+      <a href="#KlassicSubZero">Klassic Sub-Zero</a>,
+      <a href="#Stryker">Stryker</a>,
+      <a href="#Kabal">Kabal</a>,
+      <a href="#ShaoKahn">Shao Kahn</a>,
+      <a href="#Motaro">Motaro</a>
+</p>
+
+<p class="center">For Play Station, Sega Saturn and PC versions:<br />
+     <a href="#KlassicRayden">Klassic Rayden</a>,
+     <a href="#KlassicKano">Klassic Kano</a>,
+     <a href="#SubZero">Sub-Zero</a>,
+	 <a href="#KlassicJax">Klassic Jax</a>,
+     <a href="#KlassicKungLao">Klassic Kung Lao</a>,
+     <a href="#Goro">Goro</a>,
+     <a href="#Kintaro">Kintaro</a>,
+     <a href="#Chameleon">Chameleon</a>
+</p>
+
+<p class="center">For the N64 version only:<br />
+     <a href="#Khameleon">Khameleon</a>
+</p>
+
+<p class="center"><span class="headline-level2">Abbreviation - Move</span><br />
+	B - Back<br />
+	F - Forward<br />
+	D - Down<br />
+	Up - Up<br />
+	LP - Low Punch<br />
+	HP - High Punch<br />
+	LK - Low Kick<br />
+	HK - High Kick<br />
+	BL - Block<br />
+	R - Run
+</p>
+
+<p class="center"><span class="headline-level2">Abbreviation - Platform</span><br />
+	PC - PC<br />
+	SS - Sega Saturn<br />
+	PSX - PSOne<br />
+	N64 - Nintendo 64
+</p>
+
+<p class="center"><span class="headline-level2">How To Do: Animality</span><br />
+	On the third round defeat your opponent and when you see Finish Him/Her press and hold Run and tap Down, Down, Down and release Run (past sweep). Then defeat your opponent again and perform 
+	the Animality.
+</p>
+
+<p class="center"><span class="headline-level2">How To Do: Babality and Friendship</span><br />
+	Don&#39;t use BL during the final round.
+</p>
+
+<!--Johnny Cage-->
+
+<p><img src="../../images/mkt/mkt-johnnycage.png" alt="Johnny Cage" title="Johnny Cage" width="48" height="59" /> <a name="JohnnyCage">Johnny Cage</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	High Green Orb: F, D, B, HP<br />
+	Low Green Orb: B, D, F, LP<br />
+	Shadow Uppercut: B, D, B, HP<br />
+	Shadow Kick: B, F, LK<br />
+	Red Shadow Kick: B, B, F, HK - <b>PC</b>, <b>PSX</b>, <b>SS</b>; B, B, F, LK - <b>N64</b><br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: D, D, F, F, LP (close) (to knock off three heads <b>N64 only</b>, Hold D + LP + BL + LK)<br />
+	Fatality 2: D, D, F, F, LK (close) - <b>PC</b>, <b>PSX</b>, <b>SS</b>; (outside sweep) - <b>N64</b><br />
+	Animality: D, F, F, HK (close)<br />
+	Babality: D, F, B, B, HK (half screen)<br />
+	Friendship: D, D, D, D, LK<br />
+	Brutality: HP, LK, HK, LP, HP, HK, HK, HP, HP, LP, HP<br />
+	Stage: D, B, F, F, HK <br />
+<span class="headline-level3">Combos:</span><br />
+	HK, LK, HK, LK, LK (27%)<br />
+	HP, HP, LP, D + LP (19%, 17% for <b>N64</b>)
+</p>
+<p><a href="#main">Go to top</a></p>
+     
+<!--Noob Saibot-->
+
+<p><img src="../../images/mkt/mkt-noobsaibot.png" alt="Noob Saibot" title="Noob Saibot" width="48" height="59" /> <a name="NoobSaibot">Noob Saibot</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Clone Throw: F, F, HP<br />
+	Teleport Slam: D, Up<br />
+	No Block Ball: D, F, LP<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: B, B, F, F, HK (sweep)<br />
+	Fatality 2: D, D, Up, R (sweep)<br />
+	Animality: B, F, B, F, HK (sweep)<br />
+	Babality: F, F, F, LP<br />
+	Friendship: F, F, B, HP (full screen)<br />
+	Brutality: HP, LK, LP, BL, LK, HK, HP, LP, BL, LK, HK<br />
+	Stage: F, D, F, BL<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LP, HK (22%)<br />
+	LK, LK, LK, LK (23%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Baraka-->
+
+<p><img src="../../images/mkt/mkt-baraka.png" alt="Baraka" title="Baraka" width="48" height="59" /> <a name="Baraka">Baraka</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Blade Fury: B, B, B, LP<br />
+	Head Swipe: B + HP<br />
+	Spark Toss: D, B, HP<br />
+	Blade Spin: F, D, F + BL (Keep Tapping BL &amp; Hold B Or F To Move)<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: B, B, B, HP (close when starting the key combination)<br />
+	Fatality 2: B, F, D, F, LP (close when starting the key combination)<br />
+	Animality: Hold HP, F, B, D, F, release HP (sweep)<br />
+	Babality: F, F, F, HK<br />
+	Friendship: D, F, F, HK<br />
+	Brutality: HP, HP, HP, LP, LP, BL, HK, HK, LK, LK, BL<br />
+	Stage: LK, R, R, R, R<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, B + HP, F + HP (22%, 21% for <b>N64</b>)<br />
+	HK, HK, LK, B + HK (23%, 25% for <b>N64</b>)<br />
+	HK, HK, B + HP, F + HP (23%) - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	HK, HK, B + HP, B + HP, F + HP (21%) - <b>N64</b>
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Cyrax-->
+
+<p><img src="../../images/mkt/mkt-cyrax.png" alt="Cyrax" title="Cyrax" /> <a name="Cyrax">Cyrax</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Far Bomb Toss: Hold LK, F, F, HK<br />
+	Near Bomb Toss: Hold LK, B, B, HK<br />
+	Teleport: F, D, BL (can be done in air too)<br />
+	Green Net: B, B, LK<br />
+	Air Run: (When you are on ground, and victim is in air) D, F, BL (When your near the victim in mid air press B + LP to throw.)<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: D, D, Up, D, HP (close)<br />
+	Fatality 2: D, D, F, Up, R (close)<br />
+	Animality: Up, Up, D, D (close)<br />
+	Babality: F, F, B, HP<br />
+	Friendship: R, R, R, Up<br />
+	Brutality: HP, HK, HP, HK, HK, HP, HK, HP, HK, LK, LP<br />
+	Stage: R, BL, R<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LP (18%)<br />
+	HK, HK, B + HK (19%)<br />
+	HP, HP, HK, HP, HK, B + HK (30%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Cyrax-->
+
+<p><img src="../../images/mkt/mkt-sonya.png" alt="Sonya" title="Sonya" /> <a name="Sonya">Sonya</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Energy Rings: D, F, LP<br />
+	Wave Punch: F, B, HP<br />
+	Bicycle Kick: B, B, D, HK<br />
+	Leg Throw: D + LP + BL<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Hold BL + R, Up, Up, B, D (half screen)<br />
+	Fatality 2: B, F, D, D, R (more than half screen)<br />
+	Animality: Hold LP, B, F, D, F, release LP (close)<br />
+	Babality: D, D, F, LK<br />
+	Friendship: B, F, B, D + R<br />
+	Brutality: HP, LK, BL, HP, LK, BL, HP, LP, BL, HK, LK<br />
+	Stage: F, F, D, HP<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LP, B + HP (22%)<br />
+	HK, HK, HP, HP, LP, B + HP (31%)<br />
+	HK, HP, HP, LP, B + HP (27%)<br />
+	HK, HP, HP, U + LP (23%)<br />
+	HP, HP, U + LP (18%)<br />
+	HK, HP, HP, U + HP (23%)<br />
+	HK, HK, HP, HP, U + LP (27%)<br />
+	HK, HK, B + HK (19%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Rayden-->
+
+<p><img src="../../images/mkt/mkt-raiden.png" alt="Rayden" title="Rayden" width="48" height="59" /> <a name="Rayden">Rayden</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Lighting Toss: D, F + LP<br />
+	Reverse Lighting Toss: D, B + LP<br />
+	Teleport: D, Up<br />
+	Torpedo: B, B, F<br />
+	Shocker: Hold HP for 3 seconds, release<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Hold HP for 8 seconds, then release (close)<br />
+	Fatality 2: Hold LK for 3 seconds, release LK, BL + LK rapidly (close)<br />
+	Animality: D, F, D, HK (sweep)<br />
+	Babality: D, D, Up, HK<br />
+	Friendship: D, B, F, HK (half screen)<br />
+	Brutality: HP, HP, LK, LK, LK, HK, LP, LP, LP, BL, BL<br />
+	Stage: D, D, D, HP<br />
+<span class="headline-level3">Combos:</span><br />
+	HK, LK, B + HK (18%)<br />
+	HP, HP, LP, LP (19%, 27% for <b>N64</b>)<br />
+	HP, HP, LP, F + HP (36%, 31% for <b>N64</b>)<br />
+	HK, HK, LK, B + HK (23%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Klassic Rayden-->
+
+<p><img src="../../images/mkt/mkt-craiden.png" alt="Klassic Rayden" title="Klassic Rayden" width="48" height="59" /> <a name="KlassicRayden">Klassic Rayden</a><br />
+<span class=note>Note: This character is not available in the Nintendo 64 version of the game.</span><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Torpedo: B, B, F (Can do in air)<br />
+	Lightning: D, F, LP<br />
+	Teleport: D, Up<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: F, F, B, B, B, HP (sweep)<br />
+	Babality: Up, Up, D, HK (past sweep)<br />
+	Brutality: HP, HP, HP, HP, BL, BL, HK, HK, HK, BL, LP, HP, HP<br />
+	Stage: D, D, F, HK (close)<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, D + LP, D + LP, D + LP (19%)<br />
+	HK, B + HK, B + HK (19%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Rain-->
+
+<p><img src="../../images/mkt/mkt-rain.png" alt="Rain" title="Rain" width="48" height="59" /> <a name="Rain">Rain</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Mind Control Orb: D, F, HP<br />
+	Super Roundhouse Kick: B + HK<br />
+	Lighting Grab: B, B, HP<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: F, F, D, HP (close)<br />
+	Fatality 2: D, D, B, F, HK (sweep)<br />
+	Animality: BL, BL, R, R, BL (close)<br />
+	Babality: F, B, B, HP<br />
+	Friendship: F, F, F, LP<br />
+	Brutality: HP, HP, BL, LK, HK, BL, LK, HK, BL, HP, LP<br />
+	Stage: F, D, F, LP<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LP, HP (22%)<br />
+	HK, HK, LK, HK, B + HK (24%)<br />
+	HK, HK, LP, HP (23%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Shang Tsung-->
+
+<p><img src="../../images/mkt/mkt-shangtsung.png" alt="Shang Tsung" title="Shang Tsung" /> <a name="ShangTsung">Shang Tsung</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Single Fireball: B, B + HP<br />
+	Double Fireballs: B, B, F + HP<br />
+	Triple Fireballs: B, B, F, F + HP<br />
+	Triple Ground Fireballs: F, F, B, B + LK<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Hold LP, D, F, F, D (close)<br />
+	Fatality 2: Hold LP, R, BL, R, BL (close)<br />
+	Animality: Hold HP, R, R, R (close)<br />
+	Babality: R, R, R, LK<br />
+	Friendship: LK, R, R, D (sweep)<br />
+	Brutality: HP, BL, BL, BL, LK, HP, LP, LP, BL, HK, LK<br />
+	Stage: Up, Up, B, LP<br />
+<span class="headline-level3">Morphs:</span><br />
+	Noob Saibot: F, D, D, B, HK<br />
+	Kung Lao: R, R, BL, R<br />
+	Baraka: D, D, LK - <b>PC</b>, <b>PSX</b>, <b>SS</b>; R, R, LP, BL - <b>N64</b><br />
+	Johnny Cage: B, B, D, LP - <b>PC</b>, <b>PSX</b>, <b>SS</b>; F, D, F, HP - <b>N64</b><br />
+	Nightwolf: Up, Up, Up <br />
+	Sonya: D, D, D + R + LP + BL <br />
+	Sindel: B, D, B, LK <br />
+	Rayden: D, B, F, LK - <b>PC</b>, <b>PSX</b>, <b>SS</b>; BL, R, BL - <b>
+	N64</b><br />
+	Ermac: D, D, Up<br />
+	Smoke: F, F, LP -<b> PC</b>, <b>PSX</b>, <b>SS</b>; B, B, D, LK - <b>N64</b><br />
+	Rain: R, BL, LK <br />
+	Cyrax: BL, BL, BL <br />
+	Stryker: F, F, F, HK<br />
+	Scorpion: D, D, F, LP <br />
+	Kabal: LP, BL, HK<br />
+	Reptile: R, BL, BL, HK <br />
+	Kitana: F, D, F, R<br />
+	Jax: F, F, D, LP <br />
+	Kano: F, B, F, BL <br />
+	Sektor: D, F, B, R <br />
+	Sub-Zero - F, D, F, HP - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Mileena: R, BL, HK <br />
+	Liu Kang: D, B, Up, F, D (360° forward)<br />
+	Human Smoke: ??? - <b>PC</b>, <b>PSX</b>, <b>SS</b>; BL, R, LK - <b>N64</b><br />
+	Jade: F, F, D, D + BL <br />
+	Sheeva: F, D, F + LK <br />
+	Shao Kahn: B, F, HK - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Motaro: F, D, B, HP - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Kintaro: Hold LP for 3 sec, rel. - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Goro: B, B, B, LK - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Classic Sub-Zero: BL, BL, R, R<br />
+	Klassic Kung Lao: B, D, B, HK - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Klassic Rayden: B, B, F, R - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Klassic Jax: D, F, B, HK - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Klassic Kano: F, Up, B, D, F... (360° back) - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LP, B + HK (22%)<br />
+	HK, HK, B + HK (19%)<br />
+	LK, HP, HP, LP, B + HK (27%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Kitana-->
+
+<p><img src="../../images/mkt/mkt-kitana.png" alt="Kitana" title="Kitana" /> <a name="Kitana">Kitana</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Fan Lift: B, B, B, HP<br />
+	Fan Toss: F, F, HP + LP (can be done in air too)<br />
+	Air Punch: D, B, HP<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: R, R, BL, BL, LK (close)<br />
+	Fatality 2: B, D, F, F, HK (close)<br />
+	Animality: D, D, D, D + R (between close and sweep) <br />
+	Babality: F, F, D, F, HK<br />
+	Friendship: D, B, F, F, LP<br />
+	Brutality: HP, HP, BL, HK, BL, BL, LK, BL, LP, BL, HP, BL<br />
+	Stage: F, D, D, LK<br />
+<span class="headline-level3">Combos:</span><br />
+	HK, HK, LK, B + HK (23%)<br />
+	HP, HP, B + LP, F + HP (25%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Kano-->
+
+<p><img src="../../images/mkt/mkt-kano.png" alt="Kano" title="Kano" /> <a name="Kano">Kano</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Sword Toss: D, B + HP<br />
+	Slice Uppercut: D, F + HP<br />
+	Ball Roll: Hold LK for 3 seconds, then release<br />
+	Upwards Ball Roll: F, D, F + HK<br />
+	Psycho Ball Roll: F, D, F + LK<br />
+	Violent Grab: D, F + LP<br />
+	Throw (In Air): BL<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Hold LP, F, D, D, F, release LP (close)<br />
+	Fatality 2: LP, BL, BL, HK (sweep)<br />
+	Animality: Hold HP, BL, BL, BL (close)<br />
+	Babality: F, F, D, D, LK<br />
+	Friendship: LK, R, R, HK<br />
+	Brutality: HP, LP, BL, LP, HP, BL, HK, LK, BL, HK, LK<br />
+	Stage: Up, Up, B, LK<br />
+<span class="headline-level3">Combos:</span><br />
+	HK, LP (15%)<br />
+	HK, D + LP, D + HP (19%)<br />
+	HK, HK, LK, B + HK (23%)<br />
+	HP, HP, B + LP (18%)<br />
+	HP, HP, D + LP, D + HP (22%)<br />
+	HP, HP, HK, LK, B + HK (26%)
+</p>
+<p><a href="#main">Go to top</a></p>    
+      
+<!--Klassic Kano-->
+
+<p><img src="../../images/mkt/mkt-ckano.png" alt="Klassic Kano" title="Klassic Kano" width="48" height="59" /> <a name="KlassicKano">Klassic Kano</a><br />
+<span class=note>Note: This character is not available in the Nintendo 64 version of the game.</span><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Roll Spin: Hold BL, 360° then release BL<br />
+	Knife Throw: Hold BL, B, F<br />
+	Knife Spin: B, F, HP (tap HP for faster spins)<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: B, D, F, LP (close)<br />
+	Babality: B, B, D, D, LK (past sweep)<br />
+	Brutality: HP, HP, BL, HK, HK, LK, HK, HP, HP, LP, HP<br />
+	Stage: B, F, F, BL<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, HP, HP (22%)<br />
+	LK, LK, HK, F + HK (21%)<br />
+	LK, LK, HK (19%)
+</p>
+<p><a href="#main">Go to top</a></p> 
+
+<!--Scorpion-->
+
+<p><img src="../../images/mkt/mkt-scorpion.png" alt="Scorpion" title="Scorpion" /> <a name="Scorpion">Scorpion</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Spear: B, B, LP<br />
+	Teleport Punch: D, B, HP (can do in air)<br />
+	Forward Teleport Punch: D, F, HP (can do in air)<br />
+	Air Throw: BL (can do in air)<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: D, D, Up, HK (past sweep)<br />
+	Fatality 2: F, F, B, LP (past sweep)<br />
+	Fatality 3: F, F, D, Up, R (close) - <b>N64</b><br />
+	Animality: F, Up, Up, HK (close)<br />
+	Babality: D, B, B, F, HP<br />
+	Friendship: B, F, F, B, LK (close)<br />
+	Brutality: HP, HP, BL, HK, HK, LK, HK, HP, HP, LP, HP<br />
+	Stage: F, Up, Up, LP<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, HK, B + HK (24%)<br />
+	HK, HK, LK, LK (23%)<br />
+	HP, HP, U + LP (18%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Sub-Zero-->
+
+<p><img src="../../images/mkt/mkt-subzero.png" alt="Sub-Zero" title="Sub-Zero" /> <a name="SubZero">Sub-Zero</a><br />
+<span class=note>Note: This character is not available in the Nintendo 64 version of the game.</span><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Ice Blast: D, F, LP<br />
+	Ice Clone: D, B, LP (can be done in air too)<br />
+	Ice Shower:<br />
+	Front: D, F, B, HP<br />
+	Over: D, F, HP<br />
+	Behind: D, B, F, HP<br />
+	Slide: B + LP + BL + LK<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality1: B, B, D, B, R (sweep)<br />
+	Fatality2: BL, BL, R, BL, R (close)<br />
+	Animality: F, F, Up, Up (close)<br />
+	Babality: D, B, B, HK<br />
+	Friendship: LK, LK, R, R, Up<br />
+	Brutality: HP, LK, HK, LP, HP, HK, HK, HP, HP, LP, HP<br />
+	Stage: B, D, F, F, HK<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LK, HK, B + HK (26%)<br />
+	HP, HP, B + HK (18%)<br />
+	HK, HK, B + HK (19%)<br />
+	HP, HP, LP, B + LK, B + HK, B + HK (23%) (Computer does 30%)<br />
+	HP, HP, LP, B + HK (22%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Ninja Smoke-->
+
+<p><img src="../../images/mkt/mkt-hsmoke.png" alt="Human Smoke" title="Human Smoke" width="48" height="59" /> <img src="../../images/mkt/mkt-hsmoken64.png" alt="Human Smoke" title="Human Smoke" width="48" height="59" /> <a name="HumanSmoke">Human Smoke</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Spear: B, B, LP<br />
+	Teleport Punch: D, B, HP (can do in air)<br />
+	Air Throw: BL (can do in air)<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: F, F, B, R (outside sweep)<br />
+	Fatality 2: R, BL, R, R, HK (outside sweep)<br />
+	Animality: F, F, F, B, HK (half screen)<br />
+	Babality: B, B, F, R<br />
+	Friendship: D, F, F, F, R<br />
+	Brutality: HP, HP, BL, LK, HK, HP, HK, HP, HK, LP, LK<br />
+	Stage: F, Up, Up, LP<br />
+<span class="headline-level3">Combos:</span><br />
+	HK, LP (15%)<br />
+	HK, D + LP, D + HP (18%)<br />
+	HP, HP, U + LP (19%)<br />
+	HP, HP, HK, B + HK (24%)<br />
+	HK, HK, LK, B + HK (23%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Reptile-->
+
+<p><img src="../../images/mkt/mkt-reptile.png" alt="Reptile" title="Reptile" /> <a name="Reptile">Reptile</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Acid Spit: F, F, HP<br />
+	Fast Force Ball: F, F, HP + LP<br />
+	Slow Force Ball: B, B, HP + LP<br />
+	Slide: B + LP + BL + LK<br />
+	Invisibility: Up, Up, D, HK<br />
+	Reverse Elbow: B, F, LK<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: B, F, D, BL (outside sweep)<br />
+	Fatality 2: F, F, Up, Up, HK (close)<br />
+	Animality: D, D, D, Up, HK (close)<br />
+	Babality: F, F, B, D, LK<br />
+	Friendship: D, F, F, B, HK (close)<br />
+	Brutality: HP, BL, HK, HK, BL, HP, LP, LK, LK, BL, LP<br />
+	Stage: BL, R, BL, BL<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, D + LP (18%)<br />
+	HK, HK, B + HK (21%)<br />
+	HP, HP, HK, B + HK (24%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Jax-->
+
+<p><img src="../../images/mkt/mkt-jax.png" alt="Jax" title="Jax" /> <a name="Jax">Jax</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Bionic Rush: F, F, HK<br />
+	Single Shot: B, F, HP<br />
+	Double Shot: F, F, B, B, HP<br />
+	Ground Smash: Hold LK for 3 seconds, then release<br />
+	Gotcha Grab: F, F, LP<br />
+	Quad Slam: After throw repeatedly tap HP<br />
+	Backbreaker: BL (in air)<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Hold BL, Up, D, F, Up (close)<br />
+	Fatality 2: R, BL, R, R, LK (full screen)<br />
+	Animality: Hold LP, F, F, D, F, then release LP (close)<br />
+	Babality: D, D, D, LK<br />
+	Friendship: LK, R, R, LK<br />
+	Brutality: HP, HP, HP, BL, LP, HP, HP, HP, BL, LP, HP<br />
+	Stage: D, F, D, LP<br />
+<span class="headline-level3">Combos:</span><br />
+	HK, HK, B + HK (19%)<br />
+	HP, HP, BL, LP, B + HP (24%)<br />
+	HK, HK, D + HP, HP, BL, LP, B + HP (33%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Klassic Jax-->
+
+<p><img src="../../images/mkt/mkt-cjax.png" alt="Klassic Jax" title="Klassic Jax" width="48" height="59" /> <a name="KlassicJax">Klassic Jax</a><br />
+<span class=note>Note: This character is not available in the Nintendo 64 version of the game.</span><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Energy Wave: F, D, B, HK<br />
+	Air Energy Wave: F, D, HK (in the air)<br />
+	Backbreaker: BL (in air, close)<br />
+	Gotcha Grab: F, F, LP (tap LP for more hits)<br />
+	Ground Slam: Hold LK for 3 seconds, then release LK<br />
+	Quad Throw: Throw and tap HP repeatedly<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Hold LP, F, F, F, the release LP (close)<br />
+	Babality: D, Up, D, Up, LK<br />
+	Friendship: D, D, Up, Up, LK (sweep)<br />
+	Brutality: HP, HP, BL, HK, LP, LP, HP, BL, HK, HK, HP<br />
+	Stage: Up, Up, D, LK<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, HP, LP, B + HP (28%)<br />
+	HK, LK, LK, HK, LK, B + HK (28%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Mileena-->
+
+<p><img src="../../images/mkt/mkt-mileena.png" alt="Mileena" title="Mileena" /> <a name="Mileena">Mileena</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Sai Toss: Hold HP for 2 seconds, then release<br />
+	Air Kick: F, F, LK<br />
+	Ground Roll: B, B, D, HK<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: B, B, B, F, LK (full screen)<br />
+	Fatality 2: D, F, D, F, LP (close)<br />
+	Animality: F, D, D, F, HK (close)<br />
+	Babality: D, D, F, F, HP<br />
+	Friendship: D, D, B, F, HP<br />
+	Brutality: HP, LP, LP, HP, BL, HK, LK, LK, HK, BL, HP, LP<br />
+	Stage: D, D, D, LP<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, Up + LP, D + LP (22%)<br />
+	HK, HK, Up + LK, Up + HK (23%) <br />
+	HP, HP, HK, HK, Up + LK, Up + HK (30%)<br />
+	HP, HP, HK, HK, D - F + LK (24%)<br />
+	HK, HK, D - F + LK (16%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Sektor-->
+
+<p><img src="../../images/mkt/mkt-sektor.png" alt="Sektor" title="Sektor" /> <a name="Sektor">Sektor</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Straight Missile: F, F, LP<br />
+	Homing Missile: F, D, B, HP<br />
+	Teleport Punch: F, F, LK<br />
+	Double Missile: B, B, F, LP<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: LP, R, R, BL (sweep)<br />
+	Fatality 2: F, F, F, B, BL (more than half screen )<br />
+	Animality: F, F, D, Up (close)<br />
+	Babality: B, D, D, D, HK (close)<br />
+	Friendship: R, R, R, D (half screen)<br />
+	Brutality: HP, HP, BL, BL, HK, HK, LK, LK, LP, LP, HP<br />
+	Stage: R, R, R, D<br />
+<span class="headline-level3">Combos:</span><br />
+	HK, HK (15%)<br />
+	HP, HP, HK, B + HK (22%)<br />
+	HP, HP, HK, HK, B + HK (26%)<br />
+	HP, HP, D + LP (18%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Liu Kang-->
+
+<p><img src="../../images/mkt/mkt-liukang.png" alt="Liu Kang" title="Liu Kang" /> <a name="LiuKang">Liu Kang</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	High Fireball: F, F, HP<br />
+	Low Fireball: F, F, LP<br />
+	Flying Kick: F, F, HK<br />
+	Bicycle Kick: Hold LK for 3 seconds, then release<br />
+	Super Kick: Hold LK, B, F, release LK<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: F, F, D, D, LK<br />
+	Fatality 2: Up, D, Up, Up, BL + R<br />
+	Animality: D, D, Up (sweep)<br />
+	Babality: D, D, D, HK<br />
+	Friendship: R, R, R, D + R<br />
+	Brutality: HP, LP, HP, BL, LK, HK, LK, HK, LP, LP, HP<br />
+	Stage: R, BL, BL, LK<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, B + LP (13%)<br />
+	HK, LK, HK, LK (22%)<br />
+	HP, LK, LK, HK, LK (25%)<br />
+	HP, HP, BL, LK, LK, HK, LK (28%)<br />
+	Jump Kick, High Fireball, Flying Kick (28%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Jade-->
+
+<p><img src="../../images/mkt/mkt-jade.png" alt="Jade" title="Jade" /> <a name="Jade">Jade</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	High Boomerang: B, F, HP<br />
+	Mid Boomerang: B, F, LP<br />
+	Low Boomerang: B, F, LK<br />
+	Projectile Invincibility: B, F, HK<br />
+	Shadow Kick: D, F, LK<br />
+	Second Chance: B, B, F, LP<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Up, Up, D, F, HP (close)<br />
+	Fatality 2: R, R, R, BL, R (close)<br />
+	Animality: F, D, F, F, LK<br />
+	Babality: D, D, F, D, HK<br />
+	Friendship: B, D, B, B, HK<br />
+	Brutality: HP, LK, HP, LP, HK, HK, LK, BL, BL, HP, HK<br />
+	Stage: B, F, D, R<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, D + LP, D + HP (22%)<br />
+	HK, HK, LK, B + HK (23%)<br />
+	HP, HP, D + LP, LK, HK, B + LK, B + HK (25%) (34% CPU)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Sheeva-->
+
+<p><img src="../../images/mkt/mkt-sheeva.png" alt="Sheeva" title="Sheeva" /> <a name="Sheeva">Sheeva</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Ground Stomp: B, D, B, HK<br />
+	Fireball: D, F, HP<br />
+	Aerial Stomp: D, Up<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: F, D, D, F, LP (close)<br />
+	Fatality 2: Hold HK, B, F, F, release HK (close)<br />
+	Animality: R, BL, BL, BL, BL (close)<br />
+	Babality: D, D, D, B, HK<br />
+	Friendship: F, F, D, F, PAUSE + HP<br />
+	Brutality: HP, LP, BL, LK, HK, BL, HK, LK, BL, LP, HP<br />
+	Stage: D, F, D, F, LP<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LP, F + HP (25%)<br />
+	HK, HK, LK, B + HK (27%)<br />
+	HP, HP, LP, HK, HK, LK, B + HK (42%)<br />
+	HK, HK, B + HP, B + HP or B + LP (27%) - <b>N64</b>
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Kung Lao-->
+
+<p><img src="../../images/mkt/mkt-kunglao.png" alt="Kung Lao" title="Kung Lao" /> <a name="KungLao">Kung Lao</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Hat Toss: B, F, LP<br />
+	Diving Kick: D + HK (in air)<br />
+	Spinning Shield: F, D, F, R, R, R<br />
+	Teleport Attack: D, Up<br />
+	Double Teleport Attack: D, D, Up<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: R, BL, R, BL, D<br />
+	Fatality 2: F, F, B, D, HP (close)<br />
+	Animality: R, R, R, R, BL (close)<br />
+	Babality: D, F, F, HP<br />
+	Friendship: R, LP, R, LK (past sweep)<br />
+	Brutality: HP, LP, LK, HK, BL, HP, LP, LK, HK, BL, HP<br />
+	Stage: D, D, F, F, LK<br />
+<span class="headline-level3">Combos:</span><br />
+	LK, LK, B + HK (19%)<br />
+	HP, LP, HP, LP, LK, LK, B + HK (34%)<br />
+	HP, LK, B + HK (18%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Klassic Kung Lao-->
+
+<p><img src="../../images/mkt/mkt-ckunglao.png" alt="Klassic Kung Lao" title="Klassic Kung Lao" width="48" height="59" /> <a name="KlassicKungLao">Klassic Kung Lao</a><br />
+<span class=note>Note: This character is not available in the Nintendo 64 version of the game.</span><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Shield Spin: Up, Up, LK (tap LK to keep spinning)<br />
+	Torpedo: B, B, F<br />
+	Hat Throw: B, F, LP<br />
+	Teleport: D, Up<br />
+	Dive Kick: D + HK (in the air)<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Hold LP, B, B, F, then release LP (aim hat up toward the 
+	neck) (Full Screen)<br />
+	Babality: F, F, B, B, HK<br />
+	Friendship: B, B, B, D, HK (sweep)<br />
+	Brutality: HP, LP, HK, HK, LP, LP, LP, LK, LK, BL, HP<br />
+	Stage: F, F, F, HP<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, LP, LP, D + LP (27%)<br />
+	HK, LK, HK, HK, B + HK (30%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Smoke-->
+
+<p><img src="../../images/mkt/mkt-smoke.png" alt="Smoke" title="Smoke" /> <a name="Smoke">Smoke</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Spear: B, B, LP<br />
+	Teleport Uppercut: F, F, LK<br />
+	Air Throw: BL (in air)<br />
+	Invisibility: Hold BL, Up, Up, R<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Hold BL, Up, Up, F, D (full screen)<br />
+	Fatality 2: Hold R + BL, D, D, F, Up (sweep)<br />
+	Animality: D, F, F, BL (full screen)<br />
+	Babality: D, D, B, B, HK<br />
+	Friendship: R, R, R, HK (full screen)<br />
+	Brutality: HP, LK, LK, HK, BL, BL, LP, LP, HP, HP, BL, BL<br />
+	Stage: F, F, D, LK<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LK, HK, LP (26%)<br />
+	HK, HK, LP (19%)<br />
+	HP, HP, HK (18%)<br />
+	HP, HP, B + LP (18%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Nightwolf-->
+
+<p><img src="../../images/mkt/mkt-nightwolf.png" alt="Nightwolf" title="Nightwolf" /> <a name="Nightwolf">Nightwolf</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Shoulder Ram: F, F, F, LK<br />
+	Arrow Shot: D, B, LP<br />
+	Hatchet Swipe: D, F, HP<br />
+	Projectile Reflection: B, B, B, HK<br />
+	Fast Shoulder Ram: B, B, F, HK<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: Up, Up, B, F, BL (close)<br />
+	Fatality 2: B, B, D, HP (sweep)<br />
+	Animality: F, F, D, D (close)<br />
+	Babality: F, B, F, B, LP<br />
+	Friendship: R, R, R, D (sweep)<br />
+	Brutality: HP, HP, HK, LK, LK, BL, BL, LP, LP, HP, HK<br />
+	Stage: R, R, BL<br />
+<span class="headline-level3">Combos:</span><br />
+	HK, HK, B + HK (19%) <br />
+	HP, HP, LP, D, F + HP (23%)<br />
+	HP, HP, LP, HK (22%)<br />
+	LK, HP, HP, LP, D, F + HP (28%)<br />
+	HK, HP, HP, LP, HK (27%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Sindel-->
+
+<p><img src="../../images/mkt/mkt-sindel.png" alt="Sindel" title="Sindel" /> <a name="Sindel">Sindel</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Fireball: F, F, LP<br />
+	Air Fireball: D, F, LK (while jumping or floating)<br />
+	Wave Dizzy: F, F, F, HP<br />
+	Float: B, B, F, HK, press BL to land<br />
+	Double Fireball: B, B, F, LP<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: R, R, BL, R, BL (sweep)<br />
+	Fatality 2: R, BL, BL, R + BL (close)<br />
+	Animality: F, F, Up, HP (close)<br />
+	Babality: R, R, R, Up<br />
+	Friendship: R, R, R, R, R, Up<br />
+	Brutality: HP, BL, LK, BL, LK, HK, BL, HK, LK, BL, LP<br />
+	Stage: D, D, D, LP<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, D + HP (19%)<br />
+	HP, HP, LP, HK (25%)<br />
+	HK, HP, HP, D + HP (27%)<br />
+	HK, HP, HP, LP, HK (33%)<br />
+	HK, HK, B + HK (19%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Ermac-->
+
+<p><img src="../../images/mkt/mkt-ermac.png" alt="Ermac" title="Ermac" /> <a name="Ermac">Ermac</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Mind Lift: B, D, B, HK<br />
+	Green Blast: D, B, LP<br />
+	Teleport Punch: D, B, HP<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: R, BL, R, R, HK (close)<br />
+	Fatality 2: D, Up, D, D, D, BL (sweep)<br />
+	Animality: F, F, B, B, LK (close)<br />
+	Babality: D, D, B, B, HP<br />
+	Friendship: F, F, F, HP<br />
+	Brutality: HP, HP, LP, BL, HK, LK, BL, HP, LP, LK, HK<br />
+	Stage: R, R, R, R, LK<br />
+<span class="headline-level3">Combos:</span><br />
+	HK, LP (15%)<br />
+	HK, HK, LK, B + HK (23%)<br />
+	HP, HP, B + LP, D, F, HP (19%)<br />
+	HP, HP, B + LP, HK, B + LK (24%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Klassic Sub-Zero-->
+
+<p><img src="../../images/mkt/mkt-csubzero.png" alt="Klassic Sub-Zero" title="Klassic Sub-Zero" /> <a name="KlassicSubZero">Klassic Sub-Zero</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Ice Blast: D, F, LP<br />
+	Ice Rain: D, F, HP - <b>N64</b><br />
+	Near Ice Rain: D, F, B, HP - <b>N64</b><br />
+	Far Ice Rain: D, B, F, HP - <b>N64</b><br />
+	Sub-Xerox: D, B, LP (can do in air) - <b>N64</b><br />
+	Ground Freeze: D, B, LK<br />
+	Ground Slide: B + LP + BL + LK<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: D, D, D, F, HP (close)<br />
+	Fatality 2: D, F, F, F, HP (close)<br />
+	Animality: ??? - <b>PC</b>, <b>PSX</b>, <b>SS</b>; B, B, F, D, LP (close) - <b>N64</b><br />
+	Babality: D, F, F, HK<br />
+	Friendship: HK, R, R, Up (close) - <b>PC</b>, <b>PSX</b>, <b>SS</b>; B, D, D, F, LK (sweep) - <b>N64</b><br />
+	Brutality: HP, LP, HP, BL, LK, LK, HK, HK, LP, HP, LP - <b>PC</b>, <b>PSX</b>, <b>SS</b><br />
+	Brutality: HP, LK, HK, LP, HP, HK, HK, HP, HP, LP - <b>N64</b><br />
+	Stage: F, D, F, F, HP<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LK, B + HK, F + LK (26%)<br />
+	LK, B + HK, F + LK (19%)<br />
+	HP, HP, D + LP, D + HP (22%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Stryker-->
+
+<p><img src="../../images/mkt/mkt-stryker.png" alt="Stryker" title="Stryker" /> <a name="Stryker">Stryker</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Rushing Attack: F, F, HK<br />
+	Baton Takedown: F, B, LP<br />
+	Single Bomb Low: D, B, LP<br />
+	Single Bomb High: D, B, HP<br />
+	Double Bomb Low: F, D, B, LP<br />
+	Double Bomb High: F, D, B, HP<br />
+	The Gat: B, F, HP<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: D, F, D, F, BL (close)<br />
+	Fatality 2: F, F, F, LK (full screen)<br />
+	Animality: R, R, R, BL (sweep)<br />
+	Babality: D, F, F, B, HP<br />
+	Friendship: LP, R, R, LP<br />
+	Brutality: HP, LP, HK, LK, HP, LP, LK, HK, HP, LK, LK<br />
+	Stage: F, Up, Up, HK<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, LP (18%)<br />
+	HK, HP, HP, LP (23%)<br />
+	HK, LK, B + LP, B + HK (23%)<br />
+	HK, LK, B + HK (19%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Kabal-->
+
+<p><img src="../../images/mkt/mkt-kabal.png" alt="Kabal" title="Kabal" /> <a name="Kabal">Kabal</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Web Spin: B, F, LK<br />
+	Fireball: B, B, HP (can do in air)<br />
+	Ground Saw: B, B, B, R<br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality 1: D, D, B, F, BL (half screen)<br />
+	Fatality 2: R, BL, BL, BL, HK (close)<br />
+	Animality: Hold HP, F, F, D, F, then release HP (close)<br />
+	Babality: R, R, LK<br />
+	Friendship: R, LK, R, R, Up<br />
+	Brutality: HP, BL, LK, LK, LK, HK, LP, LP, LP, HP, LP<br />
+	Stage: BL, BL, HK<br />
+<span class="headline-level3">Combos:</span><br />
+	HP, HP, D + HP (13%)<br />
+	LK, LK, HP, HP, D + HP (15%)<br />
+	HP, HP, HK, B + HK (25%)<br />
+	HP, HP, D + LP, D + HP (17%)<br />
+	LK, LK, HP, HP, D + LP, D + HP (17%)<br />
+	LK, LK, HP, HP, HK, B + HK (18%)<br />
+	HK, LK, B + HK (18%)<br />
+	HK, LK, HK, B + HK (24%)
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Khameleon-->
+
+<p><img src="../../images/mkt/mkt-khameleon.png" alt="Khameleon" title="Khameleon" width="48" height="59" /> <a name="Khameleon">Khameleon</a><br />
+<span class=note>Note: This character is only available in the Nintendo 64 version of the game.</span><br />
+	Khameleon has all the moves of the other three female ninjas: Mileena, Kitana and Jade.</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Chameleon-->
+
+<p><img src="../../images/mkt/mkt-hsmokehidden.png" alt="Chameleon" title="Chameleon" /> <a name="Chameleon">Chameleon</a><br />
+<span class=note>Note: This character is not available in the Nintendo 64 version of the game.</span><br />
+	Chameleon has all the moves of the other male ninjas: Rain, Noob Saibot, Scorpion, Reptile, Ermac, Sub-Zero, Ninja Smoke</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Goro-->
+
+<p><img src="../../images/mkt/mkt-goro.png" alt="Goro" title="Goro" width="48" height="59" /> <a name="Goro">Goro</a><br />
+<span class=note>Note: This character is not available in the Nintendo 64 version of the game.</span><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Grab &amp; Pound: F, F, HP<br />
+	Spinning Fists: B, B, F, HK<br />
+	Fireball: B, B, B, LP<br />
+	Roar: D, D, LK
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Shao Kahn-->
+
+<p><img src="../../images/mkt/mkt-shaokahn.png" alt="Shao Kahn" title="Shao Kahn" /> <a name="ShaoKahn">Shao Kahn</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Hammer: B, F, HP - <b>PC</b>, <b>PSX</b>, <b>SS</b>; F, B, B, HP - <b>N64</b><br />
+	Fireball: B, B, F, LP - <b>PC</b>, <b>PSX</b>, <b>SS</b>; F, D, F, LK -	<b>N64</b><br />
+	Grab and Smack: F, F, HP - <b>PC</b>, <b>PSX</b>, <b>SS</b>;<br />
+	Shoulder: D, F, LP - <b>PC</b>, <b>PSX</b>, <b>SS</b>; F, F, HP - <b>N64</b><br />
+	Upwards Shoulder: D, F, HP - <b>PC</b>, <b>PSX</b>, <b>SS</b>; D, D, F,	HK - <b>N64</b><br />
+	Insult: D, D, LK - <b>PC</b>, <b>PSX</b>, <b>SS</b>; Up, Up, R - <b>N64</b><br />
+	Laugh: D, D, HK - <b>PC</b>, <b>PSX</b>, <b>SS</b>; D, D, R - <b>N64</b><br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality: F, F, B, HP (sweep) - <b>N64</b>
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Motaro-->
+
+<p><img src="../../images/mkt/mkt-motaro.png" alt="Motaro" title="Motaro" /> <a name="Motaro">Motaro</a><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Fireball: F, D, B, HP - <b>PC</b>, <b>PSX</b>, <b>SS</b>; Hold LK for 3 sec. - <b>N64</b><br />
+	Sweep: B + LK<br />
+	Grab and Smack: F, F, HP - <b>PC</b>, <b>PSX</b>, <b>SS</b>; F, F, F, HP - <b>N64</b><br />
+	Teleport: D, Up - <b>PC</b>, <b>PSX</b>, <b>SS</b>; D, B, HK - <b>N64</b><br />
+<span class="headline-level3">Finishing Moves:</span><br />
+	Fatality: F, F, F, HK (close) - <b>N64</b>
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<!--Kintaro-->
+
+<p><img src="../../images/mkt/mkt-kintaro.png" alt="Kintaro" title="Kintaro" width="48" height="59" /> <a name="Kintaro">Kintaro</a><br />
+<span class=note>Note: This character is not available in the Nintendo 64 version of the game.</span><br />
+<span class="headline-level3">Special Moves:</span><br />
+	Fireball: B, B, F, HP<br />
+	Teleport Stomp: D, Up<br />
+	Grab Smash: F, F, HP<br />
+	Roar: D, D, LK
+</p>
+<p><a href="#main">Go to top</a></p>
+
+<p class="center"><span class="headline-level3">Download Special Moves and Fatality Guides for:</span><br />
+	<a href="../../otherfiles/mkt/MKT-Special_Moves_and_Fatalities_for_Game.Com.zip">Game.Com</a>, 
+	<a href="../../otherfiles/mkt/MKT-Special_Moves_for_HHLCD_and_R-Zone.zip">HandHeld LCD</a>, 
+	<a href="../../otherfiles/mkt/MKT-Special_Moves_for_HHLCD_and_R-Zone.zip">R-Zone</a>
+</p></article>
+					</div>
+						
+					<div id="side2">
+						<ul class="menu" dir="rtl">
+	<li><img class="menu gameinfo" src="/images/index/ph.gif" alt="Game Info"></li>
+	<li>
+		<ul class="sectionRight">
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4005">Basic Information</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4268">News</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4267">Articles</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=3981">Story</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=3985">Bios</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=3999">Endings</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4000">Special Moves</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4001">Kodes and Secrets</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4002">Glitches</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=3986">In Development</a></li>
+		</ul>
+	</li>
+	<li class="menuCategory"><img class="menu multimedia" src="/images/index/ph.gif" alt="Multimedia"></li>
+	<li>
+		<ul class="sectionRight">
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4323">Logos</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4331">Box Art</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4219">Character Images</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4324">Character Posters</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4271">Advertisements</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4003">Screenshots</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=4332">Clips and Trailers</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=5115">Fatalities</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=5116">Stage Fatalities</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=5117">Friendships</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=5119">Babalities</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=5120">Animalities</a></li>
+			<li><a class="menuEntryRight" href="/index.php?section=mkt&amp;lang=eng&amp;contentID=5121">Brutalities</a></li>
+		</ul>
+	</li>
+</ul>
+						      <script>
+var cpmstar_rnd=Math.round(Math.random()*999999);
+var cpmstar_pid=24701;
+document.writeln("<SCR"+"IPT asunc src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
+</script>						<div id="lastUpdated">Last Updated</div>
+      		  <div id="lastUpdateDate">Jul 07 2010, 08:07 PM</div>					</div>
+					
+				</div>
+				
+				<div id="goToBar">
+					<a href="#main">Go to top</a>				</div>
+				
+				<div id="bottom">
+					<div id="counters">			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-6495265-1', 'auto');
+  ga('send', 'pageview');
+
+</script></div>
+					<div id="copyright">Copyright &#169; 2002-2015 Mortal Kombat Secrets - All Rights Reserved.<br /> This website is in no way affiliated with Warner Bros. Entertainment Inc. or Threshold Entertainment.<br />Mortal Kombat, The Dragon Logo, all character and game names are registered trademarks of Warner Bros. Entertainment Inc.<br>Powered by E-ExtCMS. Script Execution Time: 0.122 seconds</div>
+				</div>
+				
+			</div>
+		
+			<p class="center">
+				<script>
+var cpmstar_rnd=Math.round(Math.random()*999999);
+var cpmstar_pid=24699;
+document.writeln("<SCR"+"IPT asunc src='http://server.cpmstar.com/view.aspx?poolid="+cpmstar_pid+"&script=1&rnd="+cpmstar_rnd+"'></SCR"+"IPT>");
+</script>			</p>
+		
+		</div>
+		
+	</body>
+
+</html>
