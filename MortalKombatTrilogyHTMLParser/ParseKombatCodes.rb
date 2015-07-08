@@ -14,18 +14,22 @@ class ParseKombatCodes
         puts @output
     end
     
+    def tab
+      "\t\t\t\t"
+    end
+    
     def parseLine(line)
         if(line.match(/^\s+/))
             line.gsub!(/^\s+/,"").gsub!(/[\n\r]+/,"")
             arr = line.split(":")
             if(!arr[0].nil?)
-               @output += "; " + arr[0].to_s + "\n"
-               @output += "_code#{@num} := \"" + parseCode(arr[1]) + "\" \n"
+               @output += tab() + "; "  + arr[1].to_s + " " + arr[0].to_s + "\n"
+               @output += tab() + "_code#{@num} := \"" + parseCode(arr[1]) + "\" \n"
                @num += 1
             end
         else 
             line.gsub!(/[\n\r]+/,"")
-            @output += ";;;;;;;;;;; #{line} ;;;;;;;;;;;;\n"    
+            @output += tab() + ";;;;;;;;;;; #{line} ;;;;;;;;;;;;\n"    
         end
     end
     
