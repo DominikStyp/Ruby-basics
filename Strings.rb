@@ -20,6 +20,7 @@ def str(mystr = "")
     puts mystr[1..4] # range from 2 to 4 letter (included)
     puts mystr[-3, 2] # from 3rd letter off the back get 2 letters
     puts mystr[-3..-2] #like previous ex.
+    "abcd"[0...-1] # "abc"
     puts "x".ord # 120 - ASCII number   
     puts "Interpolation test : #{mystr}"
     @x = 10

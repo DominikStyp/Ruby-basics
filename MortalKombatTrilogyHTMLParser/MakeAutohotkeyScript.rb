@@ -73,6 +73,19 @@ class MakeAutohotkeyScript
                 str += lsp() + "_special" + cnt.to_s + " := " + "\"#{keys}\"" 
                 cnt += 1
             }
+            # Shang Tsung exception - conversion morphs into specials 
+             char.xpath("moves//morphs").each {
+                      |s|
+                      name = s.xpath("name").text
+                      note = s.xpath("note").text
+                      keys = parseKeys(s)
+                      str +=  lsp() + "; " + name
+                      if(note.length > 0)
+                         str += lsp() + "; MORPH " +  note 
+                      end
+                      str += lsp() + "_special" + cnt.to_s + " := " + "\"#{keys}\"" 
+                      cnt += 1
+                  }
             str
     end
     
